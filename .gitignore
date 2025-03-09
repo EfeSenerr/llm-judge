@@ -1,0 +1,58 @@
+# all
+# *
+
+# Custom files & dirs
+_legacy/
+_orga/
+_tmp/
+literature/
+
+# Custom Dev env
+.lintr
+.env
+*.code-workspace
+
+# Node, npm
+node_modules/
+
+# Py Jupyter Notebook
+.ipynb_checkpoints
+
+# R Project files
+*.Rproj
+
+# R History files
+.Rhistory
+.Rapp.history
+# R Session Data files
+.RData
+.RDataTmp
+# R User-specific files
+.Ruserdata
+# R Example code in package build process
+*-Ex.R
+# R Output files from R CMD build
+/*.tar.gz
+# R Output files from R CMD check
+/*.Rcheck/
+# R RStudio files
+.Rproj.user/
+# R produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+# R OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+# R knitr and R markdown default cache directories
+*_cache/
+/cache/
+# R Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+# R Environment Variables
+.Renviron
+# R pkgdown site
+docs/
+# R translation temp files
+po/*~
+# RStudio Connect folder
+rsconnect/
