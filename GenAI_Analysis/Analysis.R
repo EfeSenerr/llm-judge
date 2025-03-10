@@ -8,20 +8,20 @@ library(irr)
 
 # human_evaluation ####
 # delete evaluators, uneccassary columns and column titles
-#df_human1 <- human_evalutation
+# df_human1 <- human_evalutation
 df_human1 <- human_evaluation2
-df_human1 <- df_human1[,-1]
-df_human1 <- df_human1[-1,]
-#df_human1[df_human1 == "N/A"] <- NA
+df_human1 <- df_human1[, -1]
+df_human1 <- df_human1[-1, ]
+# df_human1[df_human1 == "N/A"] <- NA
 df_human1[is.na(df_human1)] <- "N/A"
 
 # not evaluated rows
-df_human1 <- df_human1[-(16:20),]
-df_human1 <- df_human1[-(38:45),]
-df_human1 <- df_human1[-40,]
-df_human1 <- df_human1[-(41:54),]
+df_human1 <- df_human1[-(16:20), ]
+df_human1 <- df_human1[-(38:45), ]
+df_human1 <- df_human1[-40, ]
+df_human1 <- df_human1[-(41:54), ]
 
-#uniform column names
+# uniform column names
 names(df_human1)[names(df_human1) == "Consistency"] <- "Summary_Consistency"
 names(df_human1)[names(df_human1) == "Scholz Sentiment...8"] <- "Article_Olaf_Scholz"
 names(df_human1)[names(df_human1) == "SPD Sentiment...5"] <- "Article_SPD"
@@ -38,7 +38,7 @@ names(df_human1)[names(df_human1) == "Lindner Sentiment...16"] <- "Summary_Chris
 names(df_human1)[names(df_human1) == "FDP Sentiment...13"] <- "Summary_FDP"
 names(df_human1)[names(df_human1) == "Coalition Breakdown Sentiment...11"] <- "Summary_the_coalition_breackdown"
 
-#uniform column names human2 
+# uniform column names human2
 names(df_human1)[names(df_human1) == "Consistency"] <- "Summary_Consistency"
 names(df_human1)[names(df_human1) == "...11"] <- "Article_Olaf_Scholz"
 names(df_human1)[names(df_human1) == "...8"] <- "Article_SPD"
@@ -76,21 +76,21 @@ names(df_human1)[names(df_human1) == "article_number (in the batch_name file)"] 
 df_human1_all_clean <- df_human1
 df_human2_all_clean <- df_human1
 
-df_human1_all_clean <- df_human1_all_clean[-(42:112),]
+df_human1_all_clean <- df_human1_all_clean[-(42:112), ]
 
 # human unification:
 df_combined_human <- rbind(df_human1_all_clean, df_human2_all_clean)
 
-#unique id:
+# unique id:
 df_combined_human$unique_id <- paste(df_combined_human$article_number, df_combined_human$batch_name, sep = "_")
-df_combined_human <- df_combined_human[,-(1:2)]
+df_combined_human <- df_combined_human[, -(1:2)]
 
 # delete useless info:
 # df_human1 <- df_human1[, !names(df_human1) %in% c("batch_name", "article_number")]
 
 #----aggregate table
-#value_counts <- table(df_human1$Summary_die_Gruenen)
-#value_counts <- table(df_llm$Summary_Consistency)
+# value_counts <- table(df_human1$Summary_die_Gruenen)
+# value_counts <- table(df_llm$Summary_Consistency)
 print(value_counts)
 
 # To extract the count for "1":
@@ -100,12 +100,12 @@ cat("Total ones:", total_ones, "\n")
 
 
 # llm_evaluation ####
-llm_evalution_2 <- llm_evaluation_updated_prompt[,-1]
+llm_evalution_2 <- llm_evaluation_updated_prompt[, -1]
 df_llm <- llm_evalution_2
-#df_llm[df_llm == "N/A"] <- NA
+# df_llm[df_llm == "N/A"] <- NA
 df_llm[is.na(df_llm)] <- "N/A"
 
-#correct column names
+# correct column names
 names(df_llm)[names(df_llm) == "Article File Name"] <- "batch_name"
 df_llm$`batch_name`[df_llm$`batch_name` == "newspaper_ampel-aus_0-200_processed.json"] <- "ampel_aus_0"
 df_llm$`batch_name`[df_llm$`batch_name` == "newspaper_D-Day_processed.json"] <- "DDay"
@@ -115,15 +115,15 @@ df_llm$`batch_name`[df_llm$`batch_name` == "newspaper_ampel-aus_201-300_processe
 df_llm$`batch_name`[df_llm$`batch_name` == "newspaper_ampel-aus_300-400_processed.json"] <- "ampel_aus_300"
 df_llm$`batch_name`[df_llm$`batch_name` == "newspaper_Ampel_Koalition am Ende_52_processed.json"] <- "ampel_koalition"
 df_llm$`batch_name`[df_llm$`batch_name` == "newspaper_koalitionskrise_52_processed.json"] <- "koalitionskrise"
-#df_llm <- df_llm[, -c(20:27)]
-df_llm <- df_llm[-1,]
-df_llm <- df_llm[-175,]
+# df_llm <- df_llm[, -c(20:27)]
+df_llm <- df_llm[-1, ]
+df_llm <- df_llm[-175, ]
 
-#unique id:
+# unique id:
 names(df_llm)[names(df_llm) == "Article_Number"] <- "article_number"
 df_llm$unique_id <- paste(df_llm$article_number, df_llm$batch_name, sep = "_")
 
-#delete useless info:
+# delete useless info:
 df_llm <- df_llm[, !names(df_llm) %in% c("ID", "batch_name", "article_number", "Article_Name")]
 
 # aggregate table
@@ -145,7 +145,7 @@ df_analysis[is.na(df_analysis)] <- "N/A"
 
 # Convert binary columns to factors
 df_analysis$Summary_Consistency_human <- as.factor(df_analysis$Summary_Consistency_human)
-df_analysis$Summary_Consistency_llm   <- as.factor(df_analysis$Summary_Consistency_llm)
+df_analysis$Summary_Consistency_llm <- as.factor(df_analysis$Summary_Consistency_llm)
 
 # Compute Cohen's Kappa for binary accuracy
 kappa_accuracy <- kappa2(df_analysis[, c("Summary_Consistency_human", "Summary_Consistency_llm")])
@@ -165,18 +165,20 @@ sentiment_pairs <- list(
 df_merged <- df_analysis
 # For Summary_Consistency, treat missing and explicit "N/A" as the category "N/A"
 df_merged$Summary_Consistency_human <- factor(
-  ifelse(is.na(df_merged$Summary_Consistency_human) | 
-           df_merged$Summary_Consistency_human == "N/A", 
-         "N/A", 
-         as.character(df_merged$Summary_Consistency_human)),
+  ifelse(is.na(df_merged$Summary_Consistency_human) |
+    df_merged$Summary_Consistency_human == "N/A",
+  "N/A",
+  as.character(df_merged$Summary_Consistency_human)
+  ),
   levels = c("0", "1", "N/A")
 )
 
 df_merged$Summary_Consistency_llm <- factor(
-  ifelse(is.na(df_merged$Summary_Consistency_llm) | 
-           df_merged$Summary_Consistency_llm == "N/A", 
-         "N/A", 
-         as.character(df_merged$Summary_Consistency_llm)),
+  ifelse(is.na(df_merged$Summary_Consistency_llm) |
+    df_merged$Summary_Consistency_llm == "N/A",
+  "N/A",
+  as.character(df_merged$Summary_Consistency_llm)
+  ),
   levels = c("0", "1", "N/A")
 )
 
@@ -198,41 +200,51 @@ for (pair in sentiment_pairs) {
 
 # Recode NA as a level (e.g., "Missing")
 df_NA_extra <- df_analysis
-df_NA_extra$Summary_Consistency_human <- factor(ifelse(is.na(df_NA_extra$Summary_Consistency_human),
-                                                       "Missing",
-                                                       df_NA_extra$Summary_Consistency_human),
-                                                levels = c("0", "1", "Missing"))
+df_NA_extra$Summary_Consistency_human <- factor(
+  ifelse(is.na(df_NA_extra$Summary_Consistency_human),
+    "Missing",
+    df_NA_extra$Summary_Consistency_human
+  ),
+  levels = c("0", "1", "Missing")
+)
 
-df_NA_extra$Summary_Consistency_llm <- factor(ifelse(is.na(df_NA_extra$Summary_Consistency_llm),
-                                                     "Missing",
-                                                     df_NA_extra$Summary_Consistency_llm),
-                                              levels = c("0", "1", "Missing"))
+df_NA_extra$Summary_Consistency_llm <- factor(
+  ifelse(is.na(df_NA_extra$Summary_Consistency_llm),
+    "Missing",
+    df_NA_extra$Summary_Consistency_llm
+  ),
+  levels = c("0", "1", "Missing")
+)
 
 kappa_result <- kappa2(df_NA_extra[, c("Summary_Consistency_human", "Summary_Consistency_llm")])
 print(kappa_result)
 
 #### Spearman / Kendall Coeficient #####
 
-article_sentiment_cols <- c("Article_SPD", "Article_FDP", "Article_die_Gruenen", 
-                            "Article_Olaf_Scholz", "Article_Christian_Lindner", "Article_Robert_Habeck", "Summary_Consistency")
+article_sentiment_cols <- c(
+  "Article_SPD", "Article_FDP", "Article_die_Gruenen",
+  "Article_Olaf_Scholz", "Article_Christian_Lindner", "Article_Robert_Habeck", "Summary_Consistency"
+)
 
 cat("Pairwise Rank Correlations (Across All Articles):\n")
 for (col in article_sentiment_cols) {
   col_human <- paste0(col, "_human")
-  col_llm   <- paste0(col, "_llm")
-  
+  col_llm <- paste0(col, "_llm")
+
   # Make sure the columns are numeric or factors with numeric levels.
   # (Here we assume the columns are already numeric or integer coded as -1, 0, 1.)
   # If not, you might need to convert them:
   df_analysis[[col_human]] <- as.numeric(as.character(df_analysis[[col_human]]))
-  df_analysis[[col_llm]]   <- as.numeric(as.character(df_analysis[[col_llm]]))
-  
+  df_analysis[[col_llm]] <- as.numeric(as.character(df_analysis[[col_llm]]))
+
   # Compute Spearman's rho and Kendall's tau using complete cases
-  spearman_val <- cor(df_analysis[[col_human]], df_analysis[[col_llm]], 
-                      method = "spearman", use = "complete.obs")
-  kendall_val  <- cor(df_analysis[[col_human]], df_analysis[[col_llm]], 
-                      method = "kendall", use = "complete.obs")
-  
+  spearman_val <- cor(df_analysis[[col_human]], df_analysis[[col_llm]],
+    method = "spearman", use = "complete.obs"
+  )
+  kendall_val <- cor(df_analysis[[col_human]], df_analysis[[col_llm]],
+    method = "kendall", use = "complete.obs"
+  )
+
   cat("For", col, ":\n")
   cat("  Spearman's rho:", round(spearman_val, 3), "\n")
   cat("  Kendall's tau:  ", round(kendall_val, 3), "\n\n")
