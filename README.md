@@ -1,7 +1,12 @@
-# aligning-genai
+## Mind the Gap: Decoding Sentiment in LLM Condensations
 
-![Header Graphic](header.webp)
+![Header Graphic](header.jpg)
 
-Aligning GenAI to Social Values
+**Course: Aligning GenAI to Social Values**<br />
+Lectured by [Orestis Papakyriakopoulos](https://www.civicmachines.com/about.html), PhD @ Technical University of Munich
 
-[wip]
+---
+
+2025 | Ayten Ceter, Hannah Dieterle, Monika Dlugosch, Charlotte Fischer, Jannis Haendke, Benedikt Igl, Henri Maiworm, Efe Sener, Sophia Willmann, Tim Würfl
+
+_Liked our work? Drop us a message & let's chat about the next data project!_

@@ -30,3 +30,7 @@
     - dropped articles_number 320, 39, 86, 153, 42, 132, 39, 21, 64, 7)
 - Batch #2: `Human_Evaluation_Results_differences.csv`
   - = `human_eval_2_all.csv`
+
+### Processed data
+
+[wip]
