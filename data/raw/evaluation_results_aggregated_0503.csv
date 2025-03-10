@@ -1,0 +1,624 @@
+ID,Article File Name,Article_Number,Article_Name,Summary_Consistency,Article_Olaf_Scholz,Article_SPD,Article_Robert_Habeck,Article_die_Gruenen,Article_Christian_Lindner,Article_FDP,Article_the_coalition_breakdown,Summary_Olaf_Scholz,Summary_SPD,Summary_Robert_Habeck,Summary_die_Gruenen,Summary_Christian_Lindner,Summary_FDP,Summary_the_coalition_breakdown,Comparison_Olaf_Scholz,Comparison_SPD,Comparison_Robert_Habeck,Comparison_die_Gruenen,Comparison_Christian_Lindner,Comparison_FDP,Comparison_the_coalition_breakdown
+,0402_summaries_english_Eval_1,,,0,,,,,,,,,,,,,,,,,,,,,
+2,articles_newspapers_processed.json,1,"German government in collapse: Chancellor Scholz fires finance minister, sparking crisis",1,1,1,0,1,-1,-1,-1,0,0,0,0,-1,-1,-1,-1,-1,1,-1,1,1,1
+3,articles_newspapers_processed.json,2,German government collapses and shakes a European left in crisis,1,-1,-1,,-1,-1,-1,-1,0,-1,0,0,0,0,-1,-1,1,-1,-1,-1,-1,1
+4,articles_newspapers_processed.json,3,Senior figure with Scholz's ex-allies quits over 'D-Day' paper on German government collapse,1,0,0,,0,-1,-1,-1,0,0,,,,,,1,1,0,0,0,0,0
+5,articles_newspapers_processed.json,4,German government collapses after Olaf Scholz sacks finance minister,1,-1,0,0,0,-1,-1,-1,0,0,,,,,,-1,1,0,0,0,0,0
+6,articles_newspapers_processed.json,5,German government collapses Scholz faces vote and elections,1,-1,0,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,-1,1,1,1,1,1
+7,articles_newspapers_processed.json,6,German government collapses after Scholz sacks finance minister,1,-1,-1,-1,-1,-1,-1,-1,0,0,,,,,,-1,-1,0,0,0,0,0
+8,articles_newspapers_processed.json,7,German government collapses after Olaf Scholz sacked its finance minister and early elections expected in March,1,0,0,0,0,-1,-1,-1,0,0,0,0,-1,-1,-1,1,1,1,1,1,1,1
+9,articles_newspapers_processed.json,8,Nationalised German gas group Uniper starts repaying (EURO)13.5bn bailout; Energy,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+10,articles_newspapers_processed.json,12,Political crises in France and Germany weaken EU as it awaits Trump,1,-1,-1,,,,,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+11,articles_newspapers_processed.json,13,Focusing on what mattered to voters worked for Trump; Letters to the editor,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+12,articles_newspapers_processed.json,14,Keir Starmer left reeling following collapse of Brexit ally's government - hours after Donald Trump victory,1,-1,-1,,,,,-1,-1,,,,-1,,-1,1,0,0,0,-1,0,1
+13,articles_newspapers_processed.json,15,Vote topples government of EU’s 2nd-largest economy,1,,,,,,,0,,,,,,,,0,0,0,0,0,0,0
+14,articles_newspapers_processed.json,16,German government’s coalition collapses after minister is sacked,1,0,,,,,,,0,0,0,0,-1,-1,-1,1,-1,-1,-1,-1,-1,-1
+15,articles_newspapers_processed.json,17,Austria to ask EU to take action if German gas storage fee not lifted,1,-1,0,-1,0,,0,-1,,,,,,,,0,0,0,0,0,0,0
+16,articles_newspapers_processed.json,18,"The collapse of the German government, by Editorial",1,-1,0,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,-1,1,1,1,1,1
+17,articles_newspapers_processed.json,19,"Germany 'will tell migrants they must adopt local cultural values, 'not the other way around', and turn non-European refugees away at the border'",1,-1,-1,,,,,-1,-1,-1,,-1,,,-1,1,1,0,-1,0,0,1
+18,articles_newspapers_processed.json,20,Trump election adds to EU economic urgency,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+19,articles_newspapers_processed.json,21,Germany is trying to combat antisemitism. Experts warn a new resolution may do the opposite,1,-1,-1,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+20,articles_newspapers_processed.json,22,EU strains exposed at Budapest summit; Hungary Orbán urges rethink of European model amid fears of global schism,1,-1,,-1,-1,,,-1,-1,,,,,,-1,1,0,0,0,0,0,1
+21,articles_newspapers_processed.json,23,Germany and France leave dangerous EU power vacuum,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+22,articles_newspapers_processed.json,26,Bundesbank's Nagel warns that Trump's tariff plans could cost Germany 1% of its GDP,1,-1,-1,,,,,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+23,articles_newspapers_processed.json,27,Scholz and opposition agree to snap elections in February; Germany,1,0,1,,,,,,1,1,,0,-1,-1,-1,-1,1,0,-1,-1,-1,-1
+24,articles_newspapers_processed.json,31,Scholz gets nod from SPD to run again for chancellor,1,-1,0,0,0,-1,-1,-1,-1,0,0,0,-1,-1,-1,1,1,1,1,1,1,1
+25,articles_newspapers_processed.json,32,German crisis: the 'black swan' that erupts at the close of a year marked by politics,1,0,0,0,0,-1,-1,1,0,0,0,0,-1,-1,-1,1,1,1,1,1,1,-1
+26,articles_newspapers_processed.json,33,Street criminals claim yet another life in Karachi,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+27,articles_newspapers_processed.json,34,Why should David Lammy apologise? Trump has said far worse,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+28,articles_newspapers_processed.json,35,OPINION - A government of service? Starmer's new ministerial code provides some clues,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+29,articles_newspapers_processed.json,36,Lammy should not apologise but perhaps Trump ought to,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+30,articles_newspapers_processed.json,37,American Conscience,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+31,articles_newspapers_processed.json,38,Bernadette McAliskey: Winter's bleak prospects call for hope and unity,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+32,articles_newspapers_processed.json,39,"KU VC inaugurates physical therapy unit, fitness gym at KU Medical Center",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+33,articles_newspapers_processed.json,40,Berlin heading for weeks of paralysis after coalition fails,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+34,articles_newspapers_processed.json,42,The president of Azerbaijan called fossil fuels a 'gift from God'. Ed Miliband nearly swallowed his teeth,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+35,articles_newspapers_processed.json,44,QUENTIN LETTS: The president of Azerbaijan called fossil fuels a 'gift from God'. Ed Miliband nearly swallowed his teeth,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+36,articles_newspapers_processed.json,45,Finance Minister Aurangzeb urges reforms to avoid IMF loan in future,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+37,articles_newspapers_processed.json,46,OICCI leads pre-COP29 dialogue on private sector climate action,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+38,articles_newspapers_processed.json,47,"Time for Europe and Ireland to get their houses in order; We have the finance and skills to unlock our economic potential, but greater effectiveness is needed to deliver it",1,,,,,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+39,articles_newspapers_processed.json,48,"With $50 million export plans by 2030, Nestlé Pakistan backs govt's economic ambitions",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+40,articles_newspapers_processed.json,49,US stocks hit fresh records as European bourses retreat,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+41,articles_newspapers_processed.json,50,Olaf Scholz rejects call for confidence vote after coalition collapse,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+42,articles_newspapers_processed.json,51,Germany collapses into chaos as centre-left chancellor's coalition falls apart after he sacks finance minister,1,-1,-1,0,0,-1,-1,-1,0,0,0,0,-1,-1,-1,-1,-1,1,1,1,1,1
+43,articles_newspapers_processed.json,52,"No-confidence vote topples French government, plunges country into chaos",1,,,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+44,articles_newspapers_processed.json,54,"Closure of NJ, reduced generation from Guddu, plant, system constraints result in Rs43b loss",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+45,articles_newspapers_processed.json,55,Eighth edition of Pakistan Industrial Expo from 9th,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+46,articles_newspapers_processed.json,56,Chief of Airbus unit says Trump win is 'wake-up call' for Europe amid any US-China conflict; Aerospace & defence,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+47,articles_newspapers_processed.json,60,Tackling Climate Change,1,-1,0,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+48,articles_newspapers_processed.json,61,German opposition leader plans climate action reverse and immigration controls as Scholz paves way for election – as it happened,1,0,0,0,0,-1,-1,-1,-1,-1,,,-1,-1,-1,-1,-1,0,0,1,1,1
+49,articles_newspapers_processed.json,62,"Asif claims third IBSF World Snooker title, making history for Pakistan",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+50,articles_newspapers_processed.json,63,Discos seek Nepra's nod for transfer of additional Rs8.71b to consumers,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+51,articles_newspapers_processed.json,64,FCA for Sept: Nepra directs Discos to reimburse Rs1.27 per unit to consumers,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+52,articles_newspapers_processed.json,65,Sindh govt okays Rs232 million for MDCAT retake,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+53,articles_newspapers_processed.json,66,Punjab shuts schools in smog-hit cities,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+54,articles_newspapers_processed.json,67,"Orban,",1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+55,articles_newspapers_processed.json,68,"COMMENT: Political, economic and security headaches Trump Europe's mounting problems",1,-1,-1,-1,-1,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+56,articles_newspapers_processed.json,69,Share your thoughts about the collapse of the German coalition government and the snap election,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+57,articles_newspapers_processed.json,70,Olaf Scholz makes statement on current German Bundestag situation after government collapse,1,-1,-1,-1,-1,-1,-1,-1,0,0,,,,,,-1,-1,0,0,0,0,0
+58,articles_newspapers_processed.json,71,"CM Murad, ADB Country Head discuss $1.3 billion development projects",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+59,articles_newspapers_processed.json,72,Trump and the lure of the strongman,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+60,articles_newspapers_processed.json,76,"German coalition government collapses, early election expected in March",1,-1,0,0,0,-1,-1,-1,0,0,0,0,-1,-1,-1,-1,1,1,1,1,1,1
+61,articles_newspapers_processed.json,77,"PM announces 100MW power supply, Rs1 billion endowment fund for GB",1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+62,articles_newspapers_processed.json,78,"Security jitters as cloud hangs over US support for Ukraine, Nato",1,,,,,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+63,articles_newspapers_processed.json,79,She Was the Most Powerful Woman in the World. And She Isn't Ready to Say Sorry.; Guest Essay,1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+64,articles_newspapers_processed.json,80,The Greatest Comeback,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+65,articles_newspapers_processed.json,81,Senator Sherry calls for internationally determined contributions at COP29,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+66,articles_newspapers_processed.json,82,IIOJK Election 2024,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+67,articles_newspapers_processed.json,83,Merkel Isn't Ready to Say Sorry,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+68,articles_newspapers_processed.json,84,She Was the Most Powerful Woman in the World. And She Isn't Ready to Say Sorry.,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+69,articles_newspapers_processed.json,85,Germany to hold new elections on February 23,1,-1,-1,,,-1,-1,-1,-1,-1,,-1,-1,-1,-1,1,1,0,-1,1,1,1
+70,articles_newspapers_processed.json,86,German investor confidence worsens in the face of Trump's victory and political crisis in Germany,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+71,articles_newspapers_processed.json,87,What to do in the face of the trumpist calamity,1,1,1,0,0,0,0,1,,,,,,,,0,0,0,0,0,0,0
+72,articles_newspapers_processed.json,88,"It is high time to take to streets, PTI reacts to alleged abductions",1,,,,,0,0,0,,,,,,,,0,0,0,0,0,0,0
+73,articles_newspapers_processed.json,90,She Was the Most Powerful Woman in the World. And She Isn’t Ready to Say Sorry.; Guest Essay,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+74,articles_newspapers_processed.json,91,"We need a new start-up era; The US election has serious consequences for Germany, warns economist Markus Brunnermeier. It is high time for a change in mentality",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+75,articles_newspapers_processed.json,92,"We need a new start-up era; The US election has serious consequences for Germany, warns economist Markus Brunnermeier. It is high time for a change in mentality",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+76,articles_newspapers_processed.json,93,Brussels anxiously seeks clues about Trump intentions,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+77,articles_newspapers_processed.json,94,Shift in global balance of power raises hope for lasting peace,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+78,articles_newspapers_processed.json,95,Investor confidence in Germany falls in November,1,-1,-1,-1,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+79,articles_newspapers_processed.json,96,Eurozone ZEW economic sentiment falls in November due to Trump victory,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+80,articles_newspapers_processed.json,97,Euro zone yields drop amid investor fears,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+81,articles_newspapers_processed.json,98,Olaf Scholz addresses Bundestag,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+82,articles_newspapers_processed.json,99,Olaf Scholz attends Minister of Education and Research appointment,1,-1,-1,,,-1,-1,-1,0,0,,,,,,-1,-1,0,0,0,0,0
+83,articles_newspapers_processed.json,100,"Angela Merkel exclusive: Donald Trump, Vladimir Putin and me",1,-1,-1,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+84,articles_newspapers_processed.json,101,Trump's win should be a reality check for our leaders,1,,,,,0,0,-1,,,,,,,,0,0,0,0,0,0,0
+85,articles_newspapers_processed.json,102,Letters: Trump's win should be a reality check for our leaders,1,,,,,,,0,,,,,,,,0,0,0,0,0,0,0
+86,articles_newspapers_processed.json,103,"Stay www.firm.Be however you are as a person. And especially don't be afraid. Don't be afraid""; Angela Merkel on Putin, Brexit, her childhood in East Germany ? and how to deal with Donald Trump",1,-1,-1,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+87,articles_newspapers_processed.json,104,Keir Starmer joins European leaders as they come to terms with Donald Trump's return to the White House - but PM suffers blow in quest for action on illegal migration as government of German ally Scholz collapses,1,-1,-1,,,,,-1,-1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,-1,-1,1
+88,articles_newspapers_processed.json,105,USA - Still a Land of Opportunities,1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+89,articles_newspapers_processed.json,106,Political collapse in the Franco-German axis sends the EU into a tailspin,1,-1,-1,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+90,articles_newspapers_processed.json,107,"Europe finally faces up to migrant crisis: Germany looks set to vote in anti-migrant chancellor, France blames soft UK for Channel crossings, Ireland faces homeless crisis... while hard-right Meloni HAS tackled the problem",1,-1,-1,,,0,0,-1,,,,,,,,0,0,0,0,0,0,0
+91,articles_newspapers_processed.json,108,"US, Germany to stick with Philippines in South China Sea despite political shake-ups",1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+92,articles_newspapers_processed.json,109,"Even before Trump and his tariffs, Europe is in trouble",1,-1,0,-1,-1,-1,-1,-1,-1,-1,,,-1,-1,-1,1,-1,0,0,1,1,1
+93,articles_newspapers_processed.json,110,Scholz government collapses and Germany heads for early elections,1,0,0,,,,,,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+94,articles_newspapers_processed.json,111,HUNGARY: GERMAN COMPANIES WORRY ABOUT GROWING COSTS AND DECREASING CONSUMPTION,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+95,articles_newspapers_processed.json,112,Berlin in crosshairs,1,-1,,,,0,0,-1,,,,,,,,0,0,0,0,0,0,0
+96,articles_newspapers_processed.json,113,Conservative opposition leader insists on confidence vote for Scholz on Wednesday,1,-1,-1,,-1,,-1,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+97,articles_newspapers_processed.json,114,"Oil prices slump as Trump vows to ‘drill, baby, drill’",1,-1,,,,0,,-1,,,,,,,,0,0,0,0,0,0,0
+98,articles_newspapers_processed.json,115,Almost £1.5bn wiped off shops and pubs as jobs tax raid looms,1,-1,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+99,articles_newspapers_processed.json,116,China's tariff troubles pale beside Germany's economic woes,1,-1,0,,0,,,-1,,,,,,,,0,0,0,0,0,0,0
+100,articles_newspapers_processed.json,117,Wednesday briefing: How fan violence became a political football,1,,,,1,,,-1,,,,,,,,0,0,0,0,0,0,0
+101,articles_newspapers_processed.json,118,Germany's coalition government crumbles and Chancellor Scholz plans to govern in minority,1,1,1,1,1,-1,-1,-1,0,1,,,,,,-1,1,0,0,0,0,0
+102,articles_newspapers_processed.json,119,Europe’s economic problems compounded by lack of strong leadership,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+103,articles_newspapers_processed.json,120,COP or Flop - What is Next for Climate Diplomacy,1,-1,-1,0,1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+104,articles_newspapers_processed.json,121,National can be relieved at latest poll,1,-1,-1,,0,,,-1,,,,,,,,0,0,0,0,0,0,0
+105,articles_newspapers_processed.json,122,Luxon can be relieved at latest poll,1,-1,-1,,0,,,-1,,,,,,,,0,0,0,0,0,0,0
+106,articles_newspapers_processed.json,123,Joe Biden wants to give Donald Trump a world at open global war,1,-1,,,,,,-1,-1,-1,,,,,-1,1,-1,0,0,0,0,1
+107,articles_newspapers_processed.json,124,Euro trashed - even before Trump's tariffs; Comment,1,-1,0,0,0,1,1,-1,,,,,,,,0,0,0,0,0,0,0
+108,articles_newspapers_processed.json,126,Germany's leader expected to lead country with minority government after coalition collapse,1,1,0,,,-1,-1,-1,1,1,,,-1,-1,-1,1,-1,0,0,1,1,1
+109,articles_newspapers_processed.json,127,EU to try to convince Trump to support Ukraine and not to engage in a trade war,1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+110,articles_newspapers_processed.json,128,Foreign challenges will test new administration,1,-1,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+111,articles_newspapers_processed.json,129,"Change of elevation, by Enric Juliana",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+112,articles_newspapers_processed.json,130,Germany coalition collapses after Scholz fires key minister,1,1,1,0,1,-1,-1,-1,0,1,,,,,,-1,1,0,0,0,0,0
+113,articles_newspapers_processed.json,131,Germany marks 35 yrs since fall of wall,1,-1,-1,,,,,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+114,articles_newspapers_processed.json,132,Europe prepares for the Trump era and Orban bets on gaining prominence,1,-1,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+115,articles_newspapers_processed.json,133,Activists look to Britain for climate leadership as Trump's win casts long shadow over crucial UN talks,1,-1,,,0,,,-1,,,,,,,,0,0,0,0,0,0,0
+116,articles_newspapers_processed.json,134,"'Whether Trump wants to jump on board or not, the climate train is moving'; Cop29 activists look to Britain for summit leadership in Baku as US election outcome casts a long shadow over crucial talks",1,-1,,,0,,,-1,,,,,,,,0,0,0,0,0,0,0
+117,articles_newspapers_processed.json,135,Activists look to Britain for climate leadership as Trump's win casts long shadow over crucial UN talks,1,-1,,,0,,,-1,,,,,,,,0,0,0,0,0,0,0
+118,articles_newswires_processed.json,1,German government coalition collapses; early elections expected by end of March 2025,1,-1,0,0,0,-1,-1,-1,0,0,,,,,,-1,1,0,0,0,0,0
+119,articles_newswires_processed.json,2,Senior figure with Scholz's ex-allies quits over 'D-Day' paper on German government collapse,1,0,0,,0,-1,-1,-1,0,0,,,-1,-1,-1,1,1,0,0,1,1,1
+120,articles_newswires_processed.json,3,Senior figure with Scholz's ex-allies quits over 'D-Day' paper on German government collapse,1,0,0,,,,,,0,0,,,,,,1,1,0,0,0,0,0
+121,articles_newswires_processed.json,5,Coalition collapse leaves German government without US coordinator,1,-1,-1,,,-1,-1,-1,-1,,,,-1,0,-1,1,0,0,0,1,-1,1
+122,articles_newswires_processed.json,7,Coalition collapse leaves German government without US coordinator,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+123,articles_newswires_processed.json,8,350.Org Reacts: Germany Faces Snap Election After Climate-Delaying Finance Minister is Sacked,1,1,1,,1,-1,-1,-1,0,1,,,,,,-1,1,0,0,0,0,0
+124,articles_newswires_processed.json,9,German government on brink of collapse as Scholz sacks 'small-minded' finance minister after furious tirade,1,-1,0,1,1,-1,-1,-1,0,1,1,1,-1,-1,-1,-1,-1,1,1,1,1,1
+125,articles_newswires_processed.json,10,German ZEW Economic Confidence Deteriorates,0,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+126,articles_newswires_processed.json,11,Germany to issue more professional visas in 2024 to fill its 1.34 million job vacancies: Report,1,,,,0,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+127,articles_newswires_processed.json,12,"Dollar slips, handing back gains ahead of Fed meeting",1,0,0,,,-1,-1,-1,0,0,,0,,0,-1,1,1,0,-1,0,-1,1
+128,articles_newswires_processed.json,17,European Shares Slide As China Approves $838bn Debt Swap,1,-1,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+129,articles_newswires_processed.json,18,Mike Amesbury MP charged with assault after 'man punched in street',1,-1,0,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+130,articles_newswires_processed.json,19,DAX Index Plunges on Bayer Drag; German Economic Sentiment Tumbles,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+131,articles_newswires_processed.json,20,"Germany's 2030 electric car target to fall short, projection shows",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+132,articles_newswires_processed.json,21,"Germany's 2030 electric car target to fall short, projection shows",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+133,articles_newswires_processed.json,22,-Morningstar DBRS Comments on UniCredit's Public Tender Offer for Banco BPM,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+134,articles_newswires_processed.json,23,"Elon Musk makes bold prediction about Canadian PM Justin Trudeau's future, says he will be gone in upcoming election",1,-1,-1,,,,,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+135,articles_newswires_processed.json,24,"ING Comments on Euro, Sterling, Poland's Zloty, Czech Republic's Koruna",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+136,articles_newswires_processed.json,27,"Oxford University student was 'cancelled' before suicide, inquest hears",1,-1,,,,-1,,-1,,,,,,,,0,0,0,0,0,0,0
+137,articles_newswires_processed.json,28,Europe's economic powerhouse is imploding... and it leaves Britain DANGEROUSLY exposed - Stephen Pound,1,-1,-1,-1,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+138,articles_newswires_processed.json,29,Germany's bumpy road to a snap election,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+139,articles_newswires_processed.json,30,"Stock markets waver after US election rally, rate cut",0,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+140,articles_newswires_processed.json,31,"Stock markets mixed after US election rally, rate cut",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+141,articles_newswires_processed.json,32,US stocks hit fresh records as European bourses retreat,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+142,articles_newswires_processed.json,33,"European Stocks Tumble On Economic, Geopolitical Concerns",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+143,articles_newswires_processed.json,34,"After Trump win, Orban basks in hosting European leaders",1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+144,articles_newswires_processed.json,35,Olaf Scholz makes statement on current German Bundestag situation after government collapse,1,0,0,0,0,-1,-1,-1,0,0,,,,,,1,1,0,0,0,0,0
+145,articles_newswires_processed.json,36,MARKET ANALYSIS: U.S. Stocks May Lack Direction Following Recent Strength,1,-1,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+146,articles_newswires_processed.json,37,"The Week in Pictures: November 8-15, 2024",1,,,,,,,,,,,,,,-1,0,0,0,0,0,0,-1
+147,articles_newswires_processed.json,38,Sales in Western Europe set to decline in 2024 - GlobalData,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+148,articles_newswires_processed.json,39,NATO chief backs Germany to meet defence obligations,1,1,,,,,,,1,,,,,,,1,0,0,0,0,0,0
+149,articles_newswires_processed.json,40,NATO chief backs Germany to meet defence obligations,1,1,,,,,,,1,,,,,,,1,0,0,0,0,0,0
+150,articles_newswires_processed.json,41,Europe's economy needs help. Political chaos in France and Germany means it may be slower in coming,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,1,1,1,1,1
+151,articles_newswires_processed.json,43,Europe's economy needs help. Political chaos in France and Germany means it may be slower in coming,1,-1,-1,-1,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+152,articles_newswires_processed.json,45,Germany's Habeck says he regrets collapse of coalition government,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+153,articles_newswires_processed.json,46,Olaf Scholz addresses Bundestag,1,-1,-1,,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,1,1,1
+154,articles_newswires_processed.json,47,Olaf Scholz attends Minister of Education and Research appointment,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+155,articles_newswires_processed.json,48,CAC 40 Edges Lower As Investors React To China's Stimulus Announcement,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+156,articles_newswires_processed.json,49,Germany's Habeck says he regrets collapse of coalition government,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+157,articles_newswires_processed.json,50,Germany's Habeck says he regrets collapse of coalition government,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+158,articles_newswires_processed.json,51,German lesbian couple lose adoption case before European rights court,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+159,articles_newswires_processed.json,52,PM Orbán: Hungary must continue to pursue a sober kind of politics,1,,,,,1,1,-1,,,,,,,,0,0,0,0,0,0,0
+160,articles_newswires_processed.json,53,November in review,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+161,articles_newswires_processed.json,54,Musk rails against judges in Italy migrant row,1,-1,,,,,,-1,-1,,,,,,,1,0,0,0,0,0,0
+162,articles_newswires_processed.json,55,DAX Rallies As Germany Faces Snap Election,1,-1,,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,-1,0,0,1,1,1
+163,articles_newswires_processed.json,56,Swiss central bank announces big rate cut to boost economy,1,-1,,,-1,,,-1,,,,,,,,0,0,0,0,0,0,0
+164,articles_newswires_processed.json,57,European Shares Inch Higher With German Politics In Focus,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+165,articles_newswires_processed.json,58,Scholz confirms confidence vote in 1st speech since coalition gov't collapsed; GERMANY GOVERNMENT,1,0,0,,0,-1,-1,-1,0,,,,,,,1,0,0,0,0,0,0
+166,articles_newswires_processed.json,59,Germany's Scholz sacks finance minister as government nears collapse,1,-1,,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+167,articles_newswires_processed.json,60,URGENT: Germany's Scholz sacks finance minister as government,1,1,,,,,,,-1,,,,-1,-1,-1,-1,0,0,0,-1,-1,-1
+168,articles_newswires_processed.json,61,Germany's Scholz sacks finance minister as government nears collapse,1,0,0,0,0,-1,-1,-1,0,0,,,,,,1,1,0,0,0,0,0
+169,articles_newswires_processed.json,63,Germany's Scholz sacks finance minister as government nears collapse,1,-1,0,0,0,-1,-1,-1,1,1,1,1,-1,-1,-1,-1,-1,-1,-1,1,1,1
+170,articles_newswires_processed.json,64,MARKET ANALYSIS: Futures Pointing To Continued Strength On Wall Street,1,-1,-1,-1,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+171,articles_newswires_processed.json,65,CAC 40 gains 0.76% on Nov 7,1,-1,-1,,,-1,-1,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+172,articles_newswires_processed.json,66,Half-year Report,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+173,articles_newswires_processed.json,67,"DEPARTMENT PRESS BRIEFING NOVEMBER 7, 2024",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+174,articles_newswires_processed.json,68,"Department Press Briefing November 7, 2024",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,0402_summaries_german_Eval_1,,,,,,,,,,,,,,,,,,,,,,,,
+2,newspaper_Ampel_Koalition am Ende_52_processed.json,1,Ampel-Koalition am Ende - Scholz entlässt Lindner,1,-1,-1,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+3,newspaper_Ampel_Koalition am Ende_52_processed.json,2,Deutsche Ampel-Koalition am Ende: Scholz entlässt Lindner; Bundeskanzler stellt Weichen für Neuwahl: Keine Vertrauensbasis für weitere Zusammenarbeit - Vertrauensfrage am 15. Jänner,1,1,1,1,1,-1,-1,-1,1,1,1,1,-1,-1,-1,1,1,1,1,1,1,1
+4,newspaper_Ampel_Koalition am Ende_52_processed.json,3,FDP soll Eskalation akribisch vorbereitet haben,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+5,newspaper_Ampel_Koalition am Ende_52_processed.json,4,"Vorgeschobene Ukraine; Olaf Scholz begründet den Rauswurf seines Finanzministers mit dessen Weigerung, für die Ukraine-Hilfe die Schuldenbremse auszusetzen. Warum das ein passendes Ende der Ampel-Koalition ist.",1,-1,-1,,,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+6,newspaper_Ampel_Koalition am Ende_52_processed.json,8,"Politik steht vor Turbo-Wahlkampf; Das Ende der Ampel-Koalition im Bund trifft die Parteien im Kreis nicht vollkommen überraschend. Einen Kandidaten nominiert haben aber noch nicht alle. Wie sie auf die Entwicklungen blicken, in Berlin – und hier am Niederrhein.",1,-1,0,,0,-1,0,-1,-1,0,0,0,,0,-1,1,1,-1,1,0,1,1
+7,newspaper_Ampel_Koalition am Ende_52_processed.json,9,"Parteien bereiten sich auf Turbo-Wahlkampf vor; Das Ende der Ampel-Koalition im Bund trifft die Parteien im Kreis Kleve nicht vollkommen überraschend. Einen Kandidaten nominiert haben aber noch nicht alle. Wie sie auf die Entwicklungen blicken, in Berlin und hier am Niederrhein.",1,-1,0,,0,-1,0,-1,-1,0,0,0,,,-1,1,1,-1,1,0,0,1
+8,newspaper_Ampel_Koalition am Ende_52_processed.json,10,Plante FDP Ampel-Aus nach Drehbuch?,1,-1,-1,,,0,-1,,-1,-1,,,-1,-1,-1,1,1,0,0,-1,1,-1
+9,newspaper_Ampel_Koalition am Ende_52_processed.json,11,Christian Lindner News: Lindner: Entscheidung zwischen Überzeugung und Amt,1,-1,-1,,,1,1,-1,-1,,,,-1,-1,-1,1,0,0,0,-1,-1,1
+10,newspaper_Ampel_Koalition am Ende_52_processed.json,12,„Brauchen eine handlungsfähige Regierung“; Minister Oliver Krischer sprach auf der Versammlung des Verbands Nordrhein-Westfälischer Omnibusunternehmer in Langenfeld.,1,,,,0,,0,-1,,,,0,,,-1,0,0,0,1,0,0,1
+11,newspaper_Ampel_Koalition am Ende_52_processed.json,13,Regierungskrise: Ampel-Koalition im Streit zerbrochen,1,1,1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1,1,1,1,1,1
+12,newspaper_Ampel_Koalition am Ende_52_processed.json,14,Nach Rücktritten Beben in der FDP,1,1,1,,1,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+13,newspaper_Ampel_Koalition am Ende_52_processed.json,16,Steht die Mietpreisbremse vor dem Aus?; Wohnen Bis spätestens Ende 2025 läuft sie in Bundesländern aus   Verlängerung nach Bruch der Ampel-Koalition fraglich,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+14,newspaper_Ampel_Koalition am Ende_52_processed.json,17,Christian Lindner: Esken zu Bericht: Lindner und FDP haben sich disqualifiziert,1,,-1,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+15,newspaper_Ampel_Koalition am Ende_52_processed.json,18,"PROTOKOLL EINER SCHEIDUNG; Lindner weg, Scholz stur, Zweckehe am Ende",1,-1,-1,0,0,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,1,1,1,-1,1,1,1
+16,newspaper_Ampel_Koalition am Ende_52_processed.json,19,"Ampel-Aus: ""Richtiger Schritt""; Wie bewerten die südhessischen Bundestagsabgeordneten das Ende der Regierungskoalition?",1,1,1,,1,-1,-1,0,0,,,,,,,-1,0,0,0,0,0,0
+17,newspaper_Ampel_Koalition am Ende_52_processed.json,27,"Union sollte sich davor hüten, jetzt in reine Blockadehaltung zu verfallen ; Niedersachsens Regierungschef Stephan Weil (SPD) stärkt dem Kanzler nach dem Ampel-Ende den Rücken und wirft FDP-Chef Christian Lindner Schwäche vor: Dem habe es  am notwendigen Willen  gefehlt",1,1,1,,,-1,-1,-1,1,1,,,-1,-1,-1,1,1,0,0,1,1,1
+18,newspaper_Ampel_Koalition am Ende_52_processed.json,28,Es ist vorbei,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+19,newspaper_Ampel_Koalition am Ende_52_processed.json,29,"Auf einmal nur noch Parteichef; Analyse Christian Lindner nach dem Ampel-Aus   Getroffen, aber kämpferisch",1,-1,-1,,,0,0,-1,-1,,,,1,1,-1,1,0,0,0,-1,-1,1
+20,newspaper_Ampel_Koalition am Ende_52_processed.json,30,Auf einmal nur noch Parteichef; Christian Lindner gönnt sich keine Pause. Der ehemalige Bundesfinanzminister ist auf allen Kanälen. Sein Ziel: Die FDP wieder in den Bundestag zu führen. Dafür gibt er sich selbstbewusst.,1,-1,-1,0,0,1,1,-1,-1,,,,1,1,,1,0,0,0,1,1,0
+21,newspaper_Ampel_Koalition am Ende_52_processed.json,31,Olaf Scholz: Grüne kritisieren Scholz-Telefonat mit Putin,1,-1,-1,0,1,,,-1,-1,,0,1,,,-1,1,0,1,1,0,0,1
+22,newspaper_Ampel_Koalition am Ende_52_processed.json,32,Weil sieht seine SPD nun  aufgerüttelt ; Bundesregierung So reagieren die Fraktionen im Landtag auf das Ende der Ampel-Koalition in Berlin,1,1,1,,1,-1,-1,0,1,1,,1,-1,-1,,1,1,0,1,1,1,0
+23,newspaper_Ampel_Koalition am Ende_52_processed.json,33,Wahlkampf im Bundestag,1,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,1,1,1,1,1,1,1
+24,newspaper_Ampel_Koalition am Ende_52_processed.json,34,Zwischen Empörung und Verständnis; Wie die Mitglieder des Bundestages aus dem Rheingau-Taunus-Kreis auf das Ende der Ampel-Koalition reagieren,1,-1,-1,0,0,-1,-1,-1,-1,-1,,0,-1,-1,-1,1,1,0,1,1,1,1
+25,newspaper_Ampel_Koalition am Ende_52_processed.json,35,HIER HABEN UNSERE LESER DAS WORT: EIN SPEZIAL ZUM ENDE DER AMPEL-KOALITION UND DEN FOLGEN,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,-1,1,1,1,1,-1,-1,1
+26,newspaper_Ampel_Koalition am Ende_52_processed.json,36,Regierung am Ende - Scholz entlässt Lindner,1,1,1,0,0,-1,-1,-1,1,1,1,1,-1,-1,-1,1,1,-1,-1,1,1,1
+27,newspaper_Ampel_Koalition am Ende_52_processed.json,37,Liberale Utopie; Nach dem Ende der Ampel-Koalition steht die Partei vor einem Imageproblem. Es droht die politische Marginalisierung.,1,1,0,,0,-1,-1,1,1,0,0,0,-1,-1,1,1,1,-1,1,1,1,1
+28,newspaper_Ampel_Koalition am Ende_52_processed.json,38,Mietpreisbremse vor dem Aus?; Spätestens Ende 2025 läuft in den Bundesländern die Begrenzung aus. Nach dem Bruch der Ampel-Koalition wird eine Verlängerung immer unwahrscheinlicher.,1,,,,,,,,,0,,0,,-1,-1,0,-1,0,-1,0,-1,-1
+29,newspaper_Ampel_Koalition am Ende_52_processed.json,39,Liberale Hybris; Nach dem Ende der Ampel-Koalition steht die Partei vor einem Imageproblem. Es droht die politische Marginalisierung.,1,0,0,-1,-1,-1,-1,1,1,0,0,0,-1,-1,1,-1,1,-1,-1,1,1,1
+30,newspaper_Ampel_Koalition am Ende_52_processed.json,42,AMPEL-SPLITTER,1,-1,-1,,-1,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+31,newspaper_Ampel_Koalition am Ende_52_processed.json,43,Besser wäre eine konzentrierte politische TV-Berichterstattung; Zur Diskussion um die Reform des öffentlich-rechtlichen Fernsehens und dessen Verhalten bei der Berichterstattung über die Wahlen in den USA und das Ende der Ampel-Koalition in Berlin meldet sich ein Leser zu Wort.,1,,,,,,,0,,,,,,,,0,0,0,0,0,0,0
+32,newspaper_Ampel_Koalition am Ende_52_processed.json,44,Was wird aus der Mietpreisbremse?,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+33,newspaper_Ampel_Koalition am Ende_52_processed.json,45,Auf dem Spiel steht viel,1,-1,0,0,0,-1,-1,-1,-1,0,0,0,-1,-1,-1,1,1,1,1,1,1,1
+34,newspaper_Ampel_Koalition am Ende_52_processed.json,46,Deutsche Ampel gescheitert,1,1,1,0,0,-1,-1,-1,-1,-1,,,-1,-1,-1,-1,-1,0,0,1,1,1
+35,newspaper_Ampel_Koalition am Ende_52_processed.json,48,Steht die Mietpreisbremse vor dem Aus?,1,0,0,0,1,0,-1,-1,,0,,0,,-1,-1,0,1,0,-1,0,1,1
+36,newspaper_Ampel_Koalition am Ende_52_processed.json,49,Reizen bis zum Rausschmiss,1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+37,newspaper_Ampel_Koalition am Ende_52_processed.json,50,Wahlkampf mit Vernunft führen,1,-1,-1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,1,1,1
+38,newspaper_Ampel_Koalition am Ende_52_processed.json,51,"Wer die Schuld am Ampel-Aus trägt; Koalitionsbruch Das sagen Abgeordnete des Wahlkreises Delmenhorst, Wesermarsch, Oldenburg-Land",1,-1,-1,,1,-1,-1,-1,-1,-1,,1,-1,-1,-1,1,1,0,1,1,1,1
+39,newspaper_Ampel_Koalition am Ende_52_processed.json,53,Ökonom: Firmen können politischen Wandel nutzen,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+40,newspaper_koalitionskrise_52_processed.json,1,"""Es ist möglich - und da müssen jetzt alle arbeiten""; Kanzler Scholz appelliert im Ringen um Ausweg aus Koalitionskrise an Pflichtgefühl / Habeck macht Zugeständnis bei Intel-Milliarden, FDP antwortet mit Kritik",1,0,0,1,1,0,0,-1,0,,,,,,,1,0,0,0,0,0,0
+41,newspaper_koalitionskrise_52_processed.json,11,Schicksalstag für die Ampel; Deutschland: Dramatisches Ringen um Auswege aus Koalitionskrise - FDP fordert Wirtschaftswende,1,0,-1,0,-1,1,1,-1,0,,,,,,,1,0,0,0,0,0,0
+42,newspaper_koalitionskrise_52_processed.json,13,"Der Präsident wird zum Verfassungsanker; Koalitionskrise Bevor Frank-Walter Steinmeier Neuwahlen zulässt, kann und muss er sehr genau hinschauen",1,0,-1,0,0,0,0,-1,,,,,,,,0,0,0,0,0,0,0
+43,newspaper_koalitionskrise_52_processed.json,14,"Platzt die Berliner Ampel-Regierung heute Abend?; Koalition Koalitionsausschuss tagt   Zuvor sind Treffen zwischen Scholz, Habeck und Lindner geplant",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,1,1,1,1,1,1
+44,newspaper_koalitionskrise_52_processed.json,15,Gipfeltreffen zur Krise der Ampel,1,-1,-1,0,0,0,-1,-1,0,0,0,0,-1,-1,-1,-1,-1,1,1,-1,1,1
+45,newspaper_koalitionskrise_52_processed.json,16,Ampel ringt um Fortbestand,1,0,-1,0,-1,0,-1,-1,1,-1,0,-1,0,-1,-1,-1,1,1,1,1,1,1
+46,newspaper_koalitionskrise_52_processed.json,17,Scholz: Einigung im Ampel-Streit möglich,1,1,0,0,0,-1,-1,-1,1,-1,0,-1,0,-1,-1,1,-1,1,-1,-1,1,1
+47,newspaper_koalitionskrise_52_processed.json,18,Zeit für Teamchef Mattle,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+48,newspaper_koalitionskrise_52_processed.json,19,Scholz stellt die Vertrauensfrage; Bundesregierung Die Ampel-Krise spitzt sich dramatisch zu. Der Kanzler entlässt den Finanzminister.,1,0,0,0,0,-1,-1,-1,1,,,,,,,-1,0,0,0,0,0,0
+49,newspaper_koalitionskrise_52_processed.json,20,Unter der Oberfläche brodelt es weiter; Landesregierung: Bei Krach im Landtag mit Koalitions-Aus gedroht - SVP-Fraktionssprecher Stauder wiegelt ab: Es gibt keine Krise,1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+50,newspaper_koalitionskrise_52_processed.json,22,In Deutschland ist die Ampel aus,1,1,1,0,0,-1,-1,-1,1,1,,,-1,-1,-1,1,1,0,0,1,1,1
+51,newspaper_koalitionskrise_52_processed.json,23,Scholz entlässt Finanzminister Lindner; Am 15. Januar will der Kanzler im Bundestag die Vertrauensfrage stellen. Der FDP-Chef schlug zuvor eine Neuwahl vor.,1,1,1,0,0,-1,-1,-1,1,0,0,0,-1,-1,-1,1,-1,1,1,1,1,1
+52,newspaper_koalitionskrise_52_processed.json,26,"Danke, Christian Lindner",1,0,,,,,,,1,0,0,0,-1,-1,1,-1,-1,-1,-1,-1,-1,-1
+53,newspaper_koalitionskrise_52_processed.json,28,Lostag für die deutsche Ampel,1,0,0,0,0,-1,-1,-1,0,0,0,0,-1,-1,-1,1,1,1,1,1,1,1
+54,newspaper_koalitionskrise_52_processed.json,29,Ampel-Aus gefährdet Deutsche-Bahn-Sanierung,1,-1,-1,-1,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+55,newspaper_koalitionskrise_52_processed.json,30,Wenn die Medaille nicht zum Leben reicht; Das Land wünscht sich sportliche Erfolge   Doch bisherige Rahmenbedingungen lassen auch Spitzensportler verzweifeln,1,0,0,,,,,0,0,,,,,,,1,0,0,0,0,0,0
+56,newspaper_koalitionskrise_52_processed.json,33,Regierung am Ende - Scholz entlässt Lindner,1,1,1,0,0,-1,-1,-1,1,1,0,0,-1,-1,-1,1,1,1,1,1,1,1
+57,newspaper_koalitionskrise_52_processed.json,36,Ampeldämmerung in Berlin; Bundesregierung Die Koalition ringt um Auswege aus ihrer Krise. Die FDP stellt Forderungen.,1,0,,,,,,,1,-1,0,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+58,newspaper_koalitionskrise_52_processed.json,38,Scholz: Jetzt müssen alle arbeiten,1,0,0,1,1,-1,-1,-1,0,,,,,,,1,0,0,0,0,0,0
+59,newspaper_koalitionskrise_52_processed.json,39,Schlammschlacht nach dem Ampel-Aus,1,-1,0,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,-1,1,1,1,1,1
+60,newspaper_koalitionskrise_52_processed.json,40,"Deutschland darf nicht ""ausfallen""",1,-1,-1,-1,0,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+61,newspaper_koalitionskrise_52_processed.json,42,",So, doof"" oder wie die Ampel endete",1,-1,0,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,-1,1,1,1,1,1
+62,newspaper_koalitionskrise_52_processed.json,43,Ampel-Aus im News-Ticker: Bundeskanzler überraschend verhandlungsbereit bei Termin für Neuwahl,1,1,1,,1,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+63,newspaper_koalitionskrise_52_processed.json,44,Zähes Ringen: Hält die Regierung noch zusammen?,1,0,,,,,,,0,,,,,,,1,0,0,0,0,0,0
+64,newspaper_ampel-aus_0-200_processed.json,1,Nach dem Ampel-Aus,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+65,newspaper_ampel-aus_0-200_processed.json,2,Ampel-Aus,1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+66,newspaper_ampel-aus_0-200_processed.json,3,Ampel-Aus trifft RKI,1,,-1,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+67,newspaper_ampel-aus_0-200_processed.json,4,Erleichterung nach Ampel-Aus,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,0,-1,0,-1,1,1,1,1,1,-1,1
+68,newspaper_ampel-aus_0-200_processed.json,5,"Ampel-Aus, Kanzlerkandidatur und Investitionen",1,-1,0,,,,,-1,0,1,,,,,0,-1,-1,0,0,0,0,-1
+69,newspaper_ampel-aus_0-200_processed.json,6,Dax trotzt Ampel-Aus,1,,,,,,,-1,,,,,,,0,0,0,0,0,0,0,-1
+70,newspaper_ampel-aus_0-200_processed.json,7,Stillstand nach Ampel-Aus?,1,-1,0,,0,,-1,-1,,0,,,,,-1,0,1,0,0,0,0,1
+71,newspaper_ampel-aus_0-200_processed.json,8,Finanzminister sieht Chancen im Ampel-Aus,1,,-1,,-1,,-1,-1,,,,,,,,0,0,0,0,0,0,0
+72,newspaper_ampel-aus_0-200_processed.json,9,Kommentar : Mainz im Dialog: Ampel-Aus belebt politisches Interesse,0,,,,,,,,,,,,,,0,0,0,0,0,0,0,-1
+73,newspaper_ampel-aus_0-200_processed.json,10,Ampel-Aus,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+74,newspaper_ampel-aus_0-200_processed.json,14,„Ampel“-Aus hat keinen überrascht,1,1,1,,0,-1,-1,-1,1,1,,,,,,1,1,0,0,0,0,0
+75,newspaper_ampel-aus_0-200_processed.json,15,"Ralf Schumacher: ""Jetzt geht es wieder bergauf!"" Schumi-Bruder jubelt über Ampel-Aus",1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+76,newspaper_ampel-aus_0-200_processed.json,16,Sorge um Deutschlandticket nach Ampel-Aus,1,,0,,0,,,-1,,,,,,,0,0,0,0,0,0,0,-1
+77,newspaper_ampel-aus_0-200_processed.json,17,Ampel-Aus trifft die Baubranche hart,1,,,,,,,,,,,,,,-1,0,0,0,0,0,0,-1
+78,newspaper_ampel-aus_0-200_processed.json,18,Drehbuch zum Ampel-Aus,1,0,0,,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1,-1,1,1,1,1
+79,newspaper_ampel-aus_0-200_processed.json,19,Kommentar : Ampel-Aus könnte Auswirkungen auf Wiesbaden haben,1,-1,0,,,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+80,newspaper_ampel-aus_0-200_processed.json,20,Nach dem Ampel-Aus: Das sind die neuen Minister - wer jetzt für die FDP übernimmt,1,0,0,0,0,-1,-1,-1,0,0,,,,,,1,1,0,0,0,0,0
+81,newspaper_ampel-aus_0-200_processed.json,21,Kommentar : Das Gewalthilfegesetz darf am Ampel-Aus nicht scheitern,1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+82,newspaper_ampel-aus_0-200_processed.json,22,Landtagsfraktionen äußern sich zum Ampel-Aus,1,1,1,,0,-1,-1,0,1,,,,,,,1,0,0,0,0,0,0
+83,newspaper_ampel-aus_0-200_processed.json,23,"Ampel aus, Wahlkampfmodus an",1,1,1,,,-1,-1,-1,1,1,,,-1,0,-1,1,1,0,0,1,-1,1
+84,newspaper_ampel-aus_0-200_processed.json,24,Robert Habeck zum Ampel-Aus,1,0,,,,,,,,,1,1,0,0,0,0,0,-1,-1,-1,-1,-1
+85,newspaper_ampel-aus_0-200_processed.json,25,Politisierung nach dem Ampel-Aus?,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+86,newspaper_ampel-aus_0-200_processed.json,26,FDP-Pläne fürs Ampel-Aus,1,-1,-1,-1,-1,-1,-1,0,-1,0,,0,-1,-1,-1,1,-1,0,-1,1,1,-1
+87,newspaper_ampel-aus_0-200_processed.json,27,In Deutschland ist die Ampel aus,1,1,1,0,0,-1,-1,-1,1,1,,,-1,-1,-1,1,1,0,0,1,1,1
+88,newspaper_ampel-aus_0-200_processed.json,28,Das Ampel-Aus ist eine Chance für Sachsen,1,-1,-1,0,0,-1,-1,1,,,,,,,,0,0,0,0,0,0,0
+89,newspaper_ampel-aus_0-200_processed.json,29,Unsicherheit Gift für Wirtschaft; Analyse Ökonomen warnen nach Ampel-Aus vor neuer Rezession,1,,-1,,,,,-1,0,0,,,,,-1,-1,-1,0,0,0,0,1
+90,newspaper_ampel-aus_0-200_processed.json,30,Das Ampel-Aus-Papier;  Beginn der offenen Feldschlacht!,1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+91,newspaper_ampel-aus_0-200_processed.json,31,Plante FDP Ampel-Aus nach Drehbuch?,1,-1,-1,,,0,-1,,-1,-1,,,0,-1,-1,1,1,0,0,1,1,-1
+92,newspaper_ampel-aus_0-200_processed.json,33,Blamage nach Ampel-Aus: Keine schnelle Neuwahl möglich? Angeblicher Papiermangel sorgt für Gelächter,1,-1,,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+93,newspaper_ampel-aus_0-200_processed.json,49,Ampel-Aus mit Ansage,1,-1,-1,-1,-1,1,1,-1,0,,,,,,,-1,0,0,0,0,0,0
+94,newspaper_ampel-aus_0-200_processed.json,50,Annalena Baerbock: Nach dem Ampel-Aus hilft der Außenministerin nur noch eines,1,-1,,,,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+95,newspaper_ampel-aus_0-200_processed.json,52,Sahra Wagenknecht News: Ampel-Aus: Wagenknecht für Beförderungsstopp in Ministerien,1,-1,-1,,-1,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+96,newspaper_ampel-aus_0-200_processed.json,53,Was die Fraktionen über das Ampel-Aus denken,1,1,1,,,-1,-1,-1,1,1,,,-1,-1,-1,1,1,0,0,1,1,1
+97,newspaper_ampel-aus_0-200_processed.json,54,"Olaf Scholz: Kanzler nach Ampel-Aus ""stärker denn je"" - Applaus für neue Videobotschaft",1,0,,,,,,,1,0,,,-1,-1,-1,-1,-1,0,0,-1,-1,-1
+98,newspaper_ampel-aus_0-200_processed.json,55,„Hat nichts mit Ampel-Aus zu tun“,1,,,,0,,,,,0,,,,,,0,-1,0,0,0,0,0
+99,newspaper_ampel-aus_0-200_processed.json,56,Bürger verunsichert und geschockt; Ampel-Aus und Trump-Sieg sorgen für aufgewühlte Reaktionen in Rheinhessen und an der Nahe,1,-1,-1,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+100,newspaper_ampel-aus_0-200_processed.json,57,",,Neuwahlen schon früher!""; Umfrage Es herrscht Erleichterung über das Ampel-Aus.",1,-1,,,,1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+101,newspaper_ampel-aus_0-200_processed.json,59,Frustration nach Ampel-Aus; Politik SPD-Abgeordnete Möller sieht auch gute Ergebnisse   Janssen übt Kritik,1,-1,-1,,-1,-1,-1,-1,-1,-1,,,,-1,-1,1,1,0,0,0,1,1
+102,newspaper_ampel-aus_0-200_processed.json,60,Das Ampel-Aus ist gefährlich ; Interview Gesundheitsminister Lauterbach zu Folgen für Patienten und Reformen,1,,,,,,,,,,,,0,0,-1,0,0,0,0,-1,-1,-1
+103,newspaper_ampel-aus_0-200_processed.json,61,Sonntagsfrage nach Ampel-Aus: Scholz-Partei abgestürzt - so könnte die neue Bundesregierung aussehen,1,-1,-1,0,0,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,1,1,1,-1,1,1,1
+104,newspaper_ampel-aus_0-200_processed.json,62,"""Caren Miosga"", ""hart aber fair"" und Co.: Drohen den ARD-Talkshows nach dem Ampel-Aus Programmänderungen?",1,-1,,,,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+105,newspaper_ampel-aus_0-200_processed.json,63,Was das Ampel-Aus für die Rente bedeutet,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+106,newspaper_ampel-aus_0-200_processed.json,64,News des Tages heute: Cem Özdemir privat: Grünen-Politiker jetzt Doppel-Minister / Nach dem Ampel-Aus: Wer jetzt für die FDP übernimmt,0,-1,0,,,-1,-1,-1,-1,,,,-1,-1,0,1,0,0,0,1,1,-1
+107,newspaper_ampel-aus_0-200_processed.json,65,Flaute treibt Strompreis hoch; Per Gesetz sollten Ersatzkraftwerke gebaut werden. Das Ampel-Aus gefährdet den Plan,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+108,newspaper_ampel-aus_0-200_processed.json,66,Frustration nach Ampel-Aus; Politik SPD-Abgeordnete Siemtje Möller sieht auch gute Ergebnisse   Anne Janssen übt Kritik,1,-1,-1,,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+109,newspaper_ampel-aus_0-200_processed.json,67,Ampel-Aus im News-Ticker: Bundeskanzler überraschend verhandlungsbereit bei Termin für Neuwahl,1,1,1,,1,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+110,newspaper_ampel-aus_0-200_processed.json,68,"""Unverständlich und widersprüchlich""; FDP-MdB kritisiert Wissing scharf / Ampel-Aus trifft rheinhessische Volksvertreter nicht unerwartet",1,1,1,,0,-1,-1,-1,1,0,,0,-1,-1,-1,1,-1,0,1,1,1,1
+111,newspaper_ampel-aus_0-200_processed.json,70,Kanzler stellt Vertrauensfrage; AMPEL-AUS!; Kanzler stellt Vertrauensfrage,1,1,1,1,1,-1,-1,1,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,1,1,-1
+112,newspaper_ampel-aus_0-200_processed.json,71,Neue Hoffnung für Ermittler; Debatte um Vorratsdatenspeicherung könnte nach Ampel-Aus noch mal Fahrt aufnehmen,1,,,,,,,,,0,,,-1,-1,-1,0,-1,0,0,-1,-1,-1
+113,newspaper_ampel-aus_0-200_processed.json,82,Ampel-Aus auch im Ammerland spürbar; Bundespolitik Von Erleichterung bis Enttäuschung   Politiker schätzen Lage ein,1,0,0,0,,-1,-1,-1,-1,0,,0,-1,-1,-1,-1,1,0,-1,1,1,1
+114,newspaper_ampel-aus_0-200_processed.json,84,"Zum Ampel-Aus in Deutschland ,,Und am Ende war es Olaf Scholz, der...",1,-1,0,0,0,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+115,newspaper_ampel-aus_0-200_processed.json,85,Besser ein Ende mit Schrecken; Ampel-Aus So reagieren OB Marcus König und andere Politiker auf das Polit-Beben.,1,-1,0,,0,-1,-1,-1,-1,0,,0,-1,-1,-1,1,1,0,1,1,1,1
+116,newspaper_ampel-aus_0-200_processed.json,87,"Baerbock, Habeck, Lindner und Co.: Kein Ruhegehalt für Bundesminister nach Ampel-Aus? So sind die Regeln",1,-1,0,,0,-1,-1,-1,-1,-1,,,-1,-1,-1,1,-1,0,0,1,1,1
+117,newspaper_ampel-aus_0-200_processed.json,88,"Olaf Scholz News: Trotz Ampel-Aus: Scholz hält am Ziel eines ""Pakts für Industrie"" fest",1,1,1,,,-1,-1,-1,1,0,,,,,-1,1,-1,0,0,0,0,1
+118,newspaper_ampel-aus_0-200_processed.json,89,Details zu Ampel-Aus,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+119,newspaper_ampel-aus_0-200_processed.json,90,Die Neuwahl-Verlierer; Die Wirtschaft atmet nach dem Ampel-Aus auf. Doch einige Gesetze bleiben jetzt unverwirklicht. Nicht alle Unternehmen freut das,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+120,newspaper_ampel-aus_0-200_processed.json,91,"Gestatten, Wahlkämpfer Scholz; Deutschland. Nach dem Ampel-Aus war die Regierungserklärung des Kanzlers mit Spannung erwartet worden. Es war ein Vorgeschmack auf die nächsten 100 Tage Wahlkampf",1,0,,,,,,,-1,-1,,,-1,-1,-1,-1,-1,0,0,-1,-1,-1
+121,newspaper_ampel-aus_0-200_processed.json,92,Die Neuwahl-Verlierer; Die Wirtschaft atmet nach dem Ampel-Aus auf. Doch einige Gesetze bleiben jetzt unverwirklicht. Nicht alle Unternehmen freut das,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+122,newspaper_ampel-aus_0-200_processed.json,93,"Ampel-Aus bringt Mitgliederschub; Grüne wachsen in diesem Jahr um 100 Neumitglieder, auch andere Darmstädter Parteien legen an Kopfstärke zu",1,-1,0,,1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+123,newspaper_ampel-aus_0-200_processed.json,99,»Gift für die Konjunktur«; Die Unsicherheit nach dem Ampel-Aus ist ein weiterer Rückschlag für die Wirtschaft. Manche Ökonomen sehen darin aber auch eine Chance.,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+124,newspaper_ampel-aus_0-200_processed.json,100,Das Ampel-Aus,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,-1,-1,-1,1,1,-1,-1,1,1,1
+125,newspaper_ampel-aus_0-200_processed.json,101,",,Reformen werden Leben retten""; Der Bundesgesundheitsminister über die Folgen des Ampel-Aus für seine Gesetzesvorhaben",1,1,1,,,-1,-1,-1,1,1,,,-1,-1,-1,1,1,0,0,1,1,1
+126,newspaper_ampel-aus_0-200_processed.json,102,Nach dem Aus der Ampel-Koalition; DAS AMPEL-AUS UND IHR GELD; WER PROFITIERT UND WER ZAHLT JETZT DRAUF?,1,1,1,1,1,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+127,newspaper_ampel-aus_0-200_processed.json,103,Die Terminpläne der Parteien nach dem Ampel-Aus; Neuwahlen: So ist die Politik im Rhein-Kreis vorbereitet.,1,,-1,,1,,,-1,,-1,,1,,1,-1,0,1,0,1,0,-1,1
+128,newspaper_ampel-aus_0-200_processed.json,104,So denkt das Ausland über das Ampel-Aus; Deutsche Regierungskrise stößt auf Verwunderung   und Schadenfreude,1,-1,-1,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+129,newspaper_ampel-aus_0-200_processed.json,105,Ortsumgehung wegen »Ampel«-Aus unsicher,0,,,,,,,0,,,,,,,-1,0,0,0,0,0,0,-1
+130,newspaper_ampel-aus_0-200_processed.json,106,"German word of the year is politics: ""Ampel-Aus""",1,0,0,0,0,0,-1,-1,0,-1,0,0,-1,-1,-1,1,-1,1,1,-1,1,1
+131,newspaper_ampel-aus_0-200_processed.json,107,"Trump-Wahl, Ampel-Aus Kann das sogar gut für mein Geld sein?",1,,,,,,,,,,,,,,0,0,0,0,0,0,0,-1
+132,newspaper_ampel-aus_0-200_processed.json,108,Ringen nach dem Ampel-Aus,1,,0,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+133,newspaper_ampel-aus_0-200_processed.json,109,"So geht es weiter nach dem Ampel-Aus; Die Koalition aus SPD, Grünen und FDP ist geplatzt. Was passiert bis zu den Neuwahlen, und wie funktioniert die Vertrauensfrage?",1,0,0,,0,-1,-1,-1,1,,,,,,,-1,0,0,0,0,0,0
+134,newspaper_ampel-aus_0-200_processed.json,110,Ampel-Aus beschert Parteien mehr Mitglieder; Seit dem Ende der Koalition sind bei den Grünen bundesweit 11.000 Mitgliedsanträge eingegangen / Ein Blick in die rheinland-pfälzischen Landesverbände,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+135,newspaper_ampel-aus_0-200_processed.json,111,Noch etwas zu entscheiden; Eigentlich hat das Ampel-Aus diverse Gesetzesvorhaben beerdigt. Doch kontroverse Themen wie Organspende und Schwangerschaftsabbruch stehen noch auf der Tagesordnung.,1,0,0,0,0,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+136,newspaper_ampel-aus_0-200_processed.json,116,"Lauterbachs Reformen platzen; Gesundheit Apotheken, Pflege, Hausärzte: Das Ampel-Aus bedeutet auch das Ende für viele geplante Gesetze des Ministers.",1,,-1,,-1,0,-1,-1,,-1,,,-1,-1,-1,0,1,0,0,-1,1,1
+137,newspaper_ampel-aus_0-200_processed.json,118,Der Song zum Ampel-Aus,1,-1,,,,-1,-1,-1,,,,,1,1,-1,0,0,0,0,-1,-1,1
+138,newspaper_ampel-aus_0-200_processed.json,120,Ampel-Aus scheint Scholz zu beflügeln,1,1,-1,,,,,,1,-1,0,0,0,0,-1,1,1,-1,-1,-1,-1,-1
+139,newspaper_ampel-aus_0-200_processed.json,122,Mehrheit für Rot-Grün in Hamburg; Hamburg wählt am 2. März eine neue Bürgerschaft. Aktuell haben SPD und Grüne die Mehrheit. Ampel-Aus ohne Folgen,1,,1,,1,,,,,1,,0,,,,0,1,0,-1,0,0,0
+140,newspaper_ampel-aus_0-200_processed.json,123,"So reagiert die Politik in Dormagen auf das Ampel-Aus; Bürgermeister Erik Lierenfeld (SPD) unterstützt die Entscheidung von Bundeskanzler Olaf Scholz, die FDP sieht darin den Beginn einer Phase der Unsicherheit.",1,1,1,,,-1,-1,-1,1,1,,0,-1,-1,-1,1,1,0,-1,1,1,1
+141,newspaper_ampel-aus_0-200_processed.json,124,Negative Folgen durch Ampel-Aus befürchtet,1,,0,,0,,0,-1,,,,,,,-1,0,0,0,0,0,0,1
+142,newspaper_ampel-aus_0-200_processed.json,125,"Heftige Vorwürfe zum Wahlkampfstart; Wer der einstigen Partner provozierte das Ampel-Aus? SPD, Grüne und FDP ringen um Deutungshoheit",1,0,,,,,,,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+143,newspaper_ampel-aus_0-200_processed.json,126,"Ampel-Aus, Streit und Neuwahlen",1,-1,-1,0,1,0,0,0,0,,,,,,,-1,0,0,0,0,0,0
+144,newspaper_ampel-aus_0-200_processed.json,128,FDP-Pläne zum Ampel-Aus,1,0,0,0,0,-1,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1,1,1,1,1,1
+145,newspaper_ampel-aus_0-200_processed.json,137,Schrieb die FDP ein  Drehbuch  für den Regierungssturz?; Ampel-Aus Einstige Koalitionspartner gehen mit harten Schuldzuweisungen in den Bundestagswahlkampf,1,0,0,,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,1
+146,newspaper_ampel-aus_0-200_processed.json,150,"Wer die Schuld am Ampel-Aus trägt; Koalitionsbruch Das sagen Abgeordnete des Wahlkreises Delmenhorst, Wesermarsch, Oldenburg-Land",1,-1,-1,,1,-1,-1,-1,-1,-1,0,1,-1,-1,-1,1,1,-1,1,1,1,1
+147,newspaper_ampel-aus_0-200_processed.json,152,"Auf einmal nur noch Parteichef; Analyse Christian Lindner nach dem Ampel-Aus   Getroffen, aber kämpferisch",1,-1,-1,,,0,0,-1,-1,,,,1,1,,1,0,0,0,-1,-1,0
+148,newspaper_ampel-aus_0-200_processed.json,153,Der geplante Rauswurf; FDP soll Ampel-Aus lange vorbereitet haben. SPD debattiert über Kanzlerkandidaten,1,1,0,,0,-1,-1,1,1,0,,,-1,-1,-1,1,1,0,0,1,1,-1
+149,newspaper_ampel-aus_0-200_processed.json,154,FDP plante Ampel-Aus vor Wochen,1,-1,-1,,0,-1,-1,,-1,-1,,-1,-1,-1,-1,1,1,0,-1,1,1,-1
+150,newspaper_ampel-aus_0-200_processed.json,155,"Ampel-Aus: Befreiung oder vertane Chance?; Das sagen die Kreisvorsitzenden Petra Wulff-Werner (Grüne), Fritz Schreder (SDP) und Janos Metz (FDP)",1,0,0,,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+151,newspaper_ampel-aus_0-200_processed.json,156,Schlammschlacht nach dem Ampel-Aus,1,-1,,,,,,,1,1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+152,newspaper_ampel-aus_0-200_processed.json,157,Bundestag beschließt erstes Gesetz seit Ampel-Aus,1,,0,,0,0,0,,,,,,,,,0,0,0,0,0,0,0
+153,newspaper_ampel-aus_0-200_processed.json,159,Schlagabtausch zwischen Scholz und Merz im Bundestag; Regierungserklärung Der CDU-Chef wirft dem Kanzler Führungslosigkeit vor. Dieser wiederum verteidigt das Ampel-Aus und drängt auf gemeinsame Gesetzesbeschlüsse.,1,-1,0,,,-1,-1,-1,-1,,,,,,-1,1,0,0,0,0,0,1
+154,newspaper_ampel-aus_0-200_processed.json,160,"Die Planungen sind Spitz auf Knopf ; Wahlen Varel, Zetel und Bockhorn bereiten sich nach Ampel-Aus auf Bundestagswahl im Februar vor",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+155,newspaper_ampel-aus_0-200_processed.json,161,Nach Ampel-Aus neue Debatte um Deutschlandticket,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+156,newspaper_ampel-aus_0-200_processed.json,163,"Wer die Schuld fürs Ampel-Aus trägt; Koalitionsbruch Wahlkreis Delmenhorst, Wesermarsch, Oldenburg-Land   Das sagen örtliche Abgeordnete",1,-1,-1,,1,-1,-1,-1,-1,-1,,0,-1,-1,-1,1,1,0,-1,1,1,1
+157,newspaper_ampel-aus_0-200_processed.json,166,Ampel-Aus: Zwischen Wut und Trauer; Ministerpräsidenten und Parteispitzen aus Rheinland-Pfalz und Hessen positionieren sich zur zerbrochenen Koalition / Und eine Ex-Bundesministerin tritt nach,1,-1,0,,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+158,newspaper_ampel-aus_0-200_processed.json,167,"Wie es nach dem Ampel-Aus weitergeht; Bundesregierung Die Koalition aus SPD, Grünen und FDP ist geplatzt. Was passiert bis zu den Neuwahlen, wie funktioniert die Vertrauensfrage und wer übernimmt die Posten der ausscheidenden Minister? Die wichtigsten Fragen und Antworten im Überblick",1,0,0,,0,-1,-1,-1,0,,,,,,,1,0,0,0,0,0,0
+159,newspaper_ampel-aus_0-200_processed.json,168,Zum Ampel-Aus:  Keine wertvolle Zeit verschenken,1,-1,-1,,-1,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+160,newspaper_ampel-aus_0-200_processed.json,169,Nach Ampel-Aus und Trump-Sieg,1,,,,,,,,,,,,,,-1,0,0,0,0,0,0,-1
+161,newspaper_ampel-aus_0-200_processed.json,170,Ampel-Aus gefährdet Deutsche-Bahn-Sanierung,1,-1,-1,-1,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+162,newspaper_ampel-aus_0-200_processed.json,172,Der Reformbedarf bleibt; Gesundheitsminister Karl Lauterbach wollte noch diverse Reformen durchbringen. Doch das hat sich mit dem Ampel-Aus erledigt. Sein umstrittenstes Projekt jedoch könnte bald in Kraft treten.,1,,-1,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+163,newspaper_ampel-aus_0-200_processed.json,174,Ampel-Aus: Zwischen Wut und Trauer; Ministerpräsidenten und Parteispitzen aus Hessen und Rheinland-Pfalz positionieren sich zur zerbrochenen Koalition / Und eine Ex-Bundesministerin tritt nach,1,-1,0,,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+164,newspaper_ampel-aus_0-200_processed.json,177,"Ampel-Aus: ""Richtiger Schritt""; Wie bewerten die südhessischen Bundestagsabgeordneten das Ende der Regierungskoalition?",1,1,1,,1,-1,-1,0,0,,,,,,,-1,0,0,0,0,0,0
+165,newspaper_ampel-aus_0-200_processed.json,194,Nach Ampel-Aus: Baubeginn 2025 steht infrage,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+166,newspaper_ampel-aus_0-200_processed.json,197,Die FDP steht am Pranger; Ampel-Aus Der Bruch der Koalition und der Kampf um die Deutungshoheit   Was die Parteispitze sagt,1,1,1,0,1,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+167,newspaper_ampel-aus_0-200_processed.json,198,Wirtschaft fordert nach Ampel-Aus raschen Neuanfang,1,0,0,,,-1,-1,0,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+168,newspaper_ampel-aus_0-200_processed.json,199,Deutschland-Ticket vorerst gerettet; Um das Deutschland- Ticket gibt es nach dem Ampel-Aus großen Streit. Nun herrscht Klarheit für 2025   und Ungewissheit danach,1,-1,-1,,,0,0,-1,-1,0,,,,,-1,1,-1,0,0,0,0,1
+169,newspaper_ampel-aus_0-200_processed.json,200,"„Ampel-Aus ist gefährlich für Patienten“; Der Bundesgesundheitsminister spricht über die Krankenhausreform und die Gründe, warum er der SPD mit Olaf Scholz Siegchancen bei der Wahl zurechnet.",1,1,1,,,-1,-1,-1,1,1,,,0,0,-1,1,1,0,0,-1,-1,1
+170,newspaper_ampel-aus_201-300_processed.json,1,"""Ungewöhnlich starker Zulauf""; Vier Parteien in Hessen verzeichnen jede Menge neue Mitglieder seit dem Bruch der Berliner Ampel",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+171,newspaper_ampel-aus_201-300_processed.json,2,Ein Besuch Berlins in besonderen Zeiten,1,,,,,,,,,,,,,,0,0,0,0,0,0,0,-1
+172,newspaper_ampel-aus_201-300_processed.json,11,Klare Worte zum Ampel-Aus; Bundestagsabgeordnete aus dem Landkreis Bad Kreuznach begrüßen Ende der Berliner Koalition,1,-1,0,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+173,newspaper_ampel-aus_201-300_processed.json,12,"""Neuwahlen noch vor März""; Nach Ampel-Aus: Forderungen der IHK / Steht die rheinhessische Kammer hinter der FDP?",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+174,newspaper_ampel-aus_201-300_processed.json,14,"Brandenburg geht, Höppner bleibt; FDP-Staatssekretäre aus Rheinland-Pfalz trifft Ampel-Aus im Bund unterschiedlich - eine Ursachenforschung",1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+175,newspaper_ampel-aus_201-300_processed.json,16,Bundestagswahl ist für 23. Februar geplant; Ampel-Aus Zuvor will Bundeskanzler Scholz am 16. Dezember die Vertrauensfrage stellen,1,-1,-1,,,-1,-1,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+176,newspaper_ampel-aus_201-300_processed.json,17,"Ist die Stunde des Parlaments ; Interview Linken-Politiker Gregor Gysi über Ampel-Aus, Neuwahl und Migration",1,-1,0,,0,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+177,newspaper_ampel-aus_201-300_processed.json,18,",,D-Day""-Desaster bei der FDP",1,,,,,-1,-1,0,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+178,newspaper_ampel-aus_201-300_processed.json,19,Musikalischer Abgang mit MB; Ex-Minister Marco Buschmann schreibt ein Lied auf das Ampel-Aus. Nun ja.,1,,,,,0,0,,,,,,,,,0,0,0,0,0,0,0
+179,newspaper_ampel-aus_201-300_processed.json,22,"Wie Trumps Sieg und das Ampel-Aus bewegen; In den USA ist die Präsidentschaftswahl entschieden, in Berlin bricht die Koalition:Zwei Reporter teilen ihre Sichtweisen zur aktuellen Lage und erklären, wie sie sie bewältigen.",1,-1,-1,-1,-1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+180,newspaper_ampel-aus_201-300_processed.json,24,Rentenpaket II in Gefahr; Nach dem Ampel-Aus schwinden die Chancen für eine Verabschiedung der Reform im Bundestag,1,-1,-1,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+181,newspaper_ampel-aus_201-300_processed.json,27,»Lässt jeglichen politischen Stil vermissen«; CSU-Landesgruppenchef Alexander Dobrindt übt nach dem Ampel-Aus deutliche Kritik.,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+182,newspaper_ampel-aus_201-300_processed.json,36,Unwillen zur Verantwortung; Kommentar,1,1,0,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+183,newspaper_ampel-aus_201-300_processed.json,37,"Tangiert Ampel-Aus Klinikreform?; Krankenhäuser Landrat Heiner Scheffold hält es für wahrscheinlich, dass Gesetz in bisheriger Form umgesetzt wird.",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+184,newspaper_ampel-aus_201-300_processed.json,38,Gesetze in letzter Minute?; Trotz Ampel-Aus wollen die Abgeordneten von SPD und Grünen gerne noch einige Vorhaben durch den Bundestag bringen.,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+185,newspaper_ampel-aus_201-300_processed.json,43,Was der Verzicht von Pistorius auf die Kanzler-Kandidatur bedeutet,1,-1,-1,,,,,-1,0,,,,,,,-1,0,0,0,0,0,0
+186,newspaper_ampel-aus_201-300_processed.json,45,Gerüstet für den Winter-Wahlkampf; Vorgezogene Bundestagswahl verlangt schnelles Handeln / Wie die Alzeyer Parteien aufgestellt sind,1,,0,,1,,1,-1,,,,,,,,0,0,0,0,0,0,0
+187,newspaper_ampel-aus_201-300_processed.json,49,Die Angst vor dem Abstieg geht um; Hessische FDP hat inhaltlich und personell einen Kurswechsel vollzogen / Rechnung scheint aber nicht aufzugehen,1,,,,,1,-1,-1,,,,,1,-1,,0,0,0,0,1,1,0
+188,newspaper_ampel-aus_201-300_processed.json,58,"Andrang bei den Chemnitzer ,,Ampelparteien""",1,-1,1,,1,-1,1,-1,,1,,1,,1,-1,0,1,0,1,0,1,1
+189,newspaper_ampel-aus_201-300_processed.json,59,SPD hofft auf Scholz gegen Merz; Nach dem Ampel-Aus bereiten sich die Parteien auf vorgezogene Neuwahlen vor,1,0,0,0,0,-1,-1,0,-1,-1,0,0,0,-1,-1,-1,-1,1,1,-1,1,-1
+190,newspaper_ampel-aus_201-300_processed.json,60,Ampel-Aus verschiebt Sozialreformen; Lauterbach kündigt eine Erhöhung der Beitragssätze an: Kranken- und Pflegeversicherung werden 2025 deutlich teurer,1,-1,-1,,,-1,-1,-1,,-1,,,-1,-1,-1,0,1,0,0,1,1,1
+191,newspaper_ampel-aus_201-300_processed.json,61,Der deutschen Wirtschaft fehlt es an Kraft ; Ifo-Index fällt wieder. Stimmung trübt sich ein,1,,,,,,,,,,,,,,0,0,0,0,0,0,0,-1
+192,newspaper_ampel-aus_201-300_processed.json,62,"""Längst überfällig""; Das Ende der Regierungskoalition in Berlin beschäftigt auch die Menschen in der Landeshauptstadt",1,1,1,,0,-1,-1,-1,1,0,,,-1,-1,-1,1,-1,0,0,1,1,1
+193,newspaper_ampel-aus_201-300_processed.json,63,Ricarda Lang: Nach Ampel-Bruch: Ex-Grünen-Chefin verspottet FDP,1,,,,,,,,,,,,,-1,-1,0,0,0,0,0,-1,-1
+194,newspaper_ampel-aus_201-300_processed.json,65,"Welche Projekte Scholz noch durchbringen will; Steuerentlastungen, Rentenpaket, Asyl, Industrie: Trotz Ampel-Aus will der Kanzler noch wichtige Pläne umsetzen",1,1,1,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+195,newspaper_ampel-aus_201-300_processed.json,68,"US-Wahl, Ampel-Aus und Entbürokratisierung; Zahlreiche Themen bei Mittelstands- und Wirtschaftsunion / Staatsminister Pentz kann nicht wie geplant dabei sein",1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+196,newspaper_ampel-aus_201-300_processed.json,69,Große Sorgen nach Ampel-Aus; Spitzensportförderung sollte erstmals im Gesetz verankert werden / Lage in Berlin beunruhigt Verbände und Athleten,1,-1,-1,,,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+197,newspaper_ampel-aus_201-300_processed.json,70,"Die Schulen hoffen auf Özdemir; Mit dem Ampel-Aus steht auch der Digitalpakt 2.0 in Frage   und damit eine bessere IT-Ausstattung an den Schulen. Eine neue Studie zeigt, wie groß der Handlungsbedarf ist. Zumindest die Bundesländer haben die Hoffnung auf eine Einigung noch nicht aufgegeben",1,,,,,,,,,,,,,-1,,0,0,0,0,0,-1,0
+198,newspaper_ampel-aus_201-300_processed.json,75,"Christian Lindner: ""Deutschlands frechster Arbeitsloser!"" Netz verspottet FDP-Politiker",1,1,1,,,-1,-1,-1,-1,,,,-1,-1,-1,-1,0,0,0,1,1,1
+199,newspaper_ampel-aus_201-300_processed.json,77,Merz fordert Vertrauensfrage sofort; CDU-Chef macht nach Ampel-Aus punktuelle Zusammenarbeit mit Rot-Grün von Wahltermin im Januar abhängig,1,-1,-1,1,1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,1,1,-1,-1,-1,1,1
+200,newspaper_ampel-aus_201-300_processed.json,86,Christian Lindner News: Lindner: FDP könnte Gesetz gegen Kalte Progression zustimmen,1,-1,-1,,,1,1,-1,-1,-1,,-1,1,1,-1,1,1,0,-1,1,1,1
+201,newspaper_ampel-aus_201-300_processed.json,87,Das sagt Wiesbadens Wirtschaft zum Ampel-Aus; Handwerkskammer und IHK äußern sich besorgt zum Bruch der Koalition und sehen Eile geboten,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+202,newspaper_ampel-aus_201-300_processed.json,88,"Im Wahlamt laufen die Vorbereitungen; Nach dem Ampel-Aus findet die Bundestagswahl am 23. Februar statt / Eine Herausforderung, aber realisierbar",1,-1,-1,,,-1,-1,-1,-1,,,,,,-1,1,0,0,0,0,0,1
+203,newspaper_ampel-aus_201-300_processed.json,90,Grünen-Parteitag - Krönungsmesse statt Krisentreffen,1,,,1,1,,,,,,1,1,,,-1,0,0,1,1,0,0,-1
+204,newspaper_ampel-aus_201-300_processed.json,92,FDP sieht Vorteile nach Ampel-Aus; Die hiesigen Liberalen blicken auf die Kommunalwahlen und wollen sich mit eigenen Lösungsansätzen profilieren.,1,-1,-1,-1,-1,1,1,0,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,-1
+205,newspaper_ampel-aus_201-300_processed.json,93,Falsch bis zum Schluss; Jost Maurin über die Wirtschaftspolitik der FDP,1,1,1,,1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+206,newspaper_ampel-aus_201-300_processed.json,94,Ampel-Aus beflügelt die Grünen; Partei stellt in Wiesbaden die Weichen für den Wahlkampf / Ricarda Lang und Omid Nouripour ziehen Bilanz,1,,,1,1,-1,-1,-1,,,1,1,,,-1,0,0,1,1,0,0,1
+207,newspaper_ampel-aus_201-300_processed.json,99,Ein beispielloser Krimi; Olaf Scholz entlässt Christian Lindner mit deutlichen Worten und besiegelt das Ampel-Aus. Deutschland vor Neuwahlen,1,1,1,0,0,-1,-1,1,1,1,1,1,-1,-1,-1,1,1,-1,-1,1,1,-1
+208,newspaper_ampel-aus_300-400_processed.json,1,"""Ungewöhnlich starker Zulauf""; Vier Parteien in Hessen verzeichnen jede Menge neue Mitglieder seit dem Bruch der Berliner Ampel",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+209,newspaper_ampel-aus_300-400_processed.json,2,Ein Besuch Berlins in besonderen Zeiten,1,,,,,,,,,,,,,,0,0,0,0,0,0,0,-1
+210,newspaper_ampel-aus_300-400_processed.json,10,Klare Worte zum Ampel-Aus; Bundestagsabgeordnete aus dem Landkreis Bad Kreuznach begrüßen Ende der Berliner Koalition,1,-1,0,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+211,newspaper_ampel-aus_300-400_processed.json,12,"""Neuwahlen noch vor März""; Nach Ampel-Aus: Forderungen der IHK / Steht die rheinhessische Kammer hinter der FDP?",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+212,newspaper_ampel-aus_300-400_processed.json,15,"Brandenburg geht, Höppner bleibt; FDP-Staatssekretäre aus Rheinland-Pfalz trifft Ampel-Aus im Bund unterschiedlich - eine Ursachenforschung",1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+213,newspaper_ampel-aus_300-400_processed.json,17,Bundestagswahl ist für 23. Februar geplant; Ampel-Aus Zuvor will Bundeskanzler Scholz am 16. Dezember die Vertrauensfrage stellen,1,-1,-1,,,-1,-1,0,0,,,,,,,-1,0,0,0,0,0,0
+214,newspaper_ampel-aus_300-400_processed.json,18,"Ist die Stunde des Parlaments ; Interview Linken-Politiker Gregor Gysi über Ampel-Aus, Neuwahl und Migration",1,-1,0,,0,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+215,newspaper_ampel-aus_300-400_processed.json,19,Musikalischer Abgang mit MB; Ex-Minister Marco Buschmann schreibt ein Lied auf das Ampel-Aus. Nun ja.,1,,,,,0,0,,,,,,,,,0,0,0,0,0,0,0
+216,newspaper_ampel-aus_300-400_processed.json,20,",,D-Day""-Desaster bei der FDP",1,,,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+217,newspaper_ampel-aus_300-400_processed.json,23,"Wie Trumps Sieg und das Ampel-Aus bewegen; In den USA ist die Präsidentschaftswahl entschieden, in Berlin bricht die Koalition:Zwei Reporter teilen ihre Sichtweisen zur aktuellen Lage und erklären, wie sie sie bewältigen.",1,-1,-1,-1,-1,-1,-1,-1,,,,,,,-1,0,0,0,0,0,0,1
+218,newspaper_ampel-aus_300-400_processed.json,25,Rentenpaket II in Gefahr; Nach dem Ampel-Aus schwinden die Chancen für eine Verabschiedung der Reform im Bundestag,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+219,newspaper_ampel-aus_300-400_processed.json,29,»Lässt jeglichen politischen Stil vermissen«; CSU-Landesgruppenchef Alexander Dobrindt übt nach dem Ampel-Aus deutliche Kritik.,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+220,newspaper_ampel-aus_300-400_processed.json,37,"Tangiert Ampel-Aus Klinikreform?; Krankenhäuser Landrat Heiner Scheffold hält es für wahrscheinlich, dass Gesetz in bisheriger Form umgesetzt wird.",1,,,,,,,-1,,,,,,,,0,0,0,0,0,0,0
+221,newspaper_ampel-aus_300-400_processed.json,38,Unwillen zur Verantwortung; Kommentar,1,1,0,0,0,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+222,newspaper_ampel-aus_300-400_processed.json,39,Gesetze in letzter Minute?; Trotz Ampel-Aus wollen die Abgeordneten von SPD und Grünen gerne noch einige Vorhaben durch den Bundestag bringen.,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+223,newspaper_ampel-aus_300-400_processed.json,43,Was der Verzicht von Pistorius auf die Kanzler-Kandidatur bedeutet,1,-1,-1,,,,,-1,-1,-1,,,,,-1,1,1,0,0,0,0,1
+224,newspaper_ampel-aus_300-400_processed.json,45,Gerüstet für den Winter-Wahlkampf; Vorgezogene Bundestagswahl verlangt schnelles Handeln / Wie die Alzeyer Parteien aufgestellt sind,1,,0,,1,,1,-1,0,0,1,1,0,1,-1,-1,1,-1,1,-1,1,1
+225,newspaper_ampel-aus_300-400_processed.json,50,Die Angst vor dem Abstieg geht um; Hessische FDP hat inhaltlich und personell einen Kurswechsel vollzogen / Rechnung scheint aber nicht aufzugehen,1,,,,0,-1,-1,-1,,,,,1,-1,-1,0,0,0,0,-1,1,1
+226,newspaper_ampel-aus_300-400_processed.json,59,"Andrang bei den Chemnitzer ,,Ampelparteien""",1,-1,1,,1,-1,1,-1,,1,,1,,1,0,0,1,0,1,0,1,-1
+227,newspaper_ampel-aus_300-400_processed.json,60,SPD hofft auf Scholz gegen Merz; Nach dem Ampel-Aus bereiten sich die Parteien auf vorgezogene Neuwahlen vor,1,0,0,0,0,-1,-1,0,-1,-1,0,0,-1,-1,-1,-1,-1,1,1,1,1,-1
+228,newspaper_ampel-aus_300-400_processed.json,61,Ampel-Aus verschiebt Sozialreformen; Lauterbach kündigt eine Erhöhung der Beitragssätze an: Kranken- und Pflegeversicherung werden 2025 deutlich teurer,1,-1,-1,,,-1,-1,-1,,-1,,,-1,-1,-1,0,1,0,0,1,1,1
+229,newspaper_ampel-aus_300-400_processed.json,62,"""Längst überfällig""; Das Ende der Regierungskoalition in Berlin beschäftigt auch die Menschen in der Landeshauptstadt",1,1,1,,0,-1,-1,-1,1,0,,,-1,-1,-1,1,-1,0,0,1,1,1
+230,newspaper_ampel-aus_300-400_processed.json,63,"Welche Projekte Scholz noch durchbringen will; Steuerentlastungen, Rentenpaket, Asyl, Industrie: Trotz Ampel-Aus will der Kanzler noch wichtige Pläne umsetzen",1,1,1,,,-1,-1,-1,1,1,,,-1,-1,-1,1,1,0,0,1,1,1
+231,newspaper_ampel-aus_300-400_processed.json,64,Der deutschen Wirtschaft fehlt es an Kraft ; Ifo-Index fällt wieder. Stimmung trübt sich ein,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+232,newspaper_ampel-aus_300-400_processed.json,66,Ricarda Lang: Nach Ampel-Bruch: Ex-Grünen-Chefin verspottet FDP,1,,,,,,,,,,,,,-1,-1,0,0,0,0,0,-1,-1
+233,newspaper_ampel-aus_300-400_processed.json,69,Große Sorgen nach Ampel-Aus; Spitzensportförderung sollte erstmals im Gesetz verankert werden / Lage in Berlin beunruhigt Verbände und Athleten,1,0,0,,0,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+234,newspaper_ampel-aus_300-400_processed.json,70,"US-Wahl, Ampel-Aus und Entbürokratisierung; Zahlreiche Themen bei Mittelstands- und Wirtschaftsunion / Staatsminister Pentz kann nicht wie geplant dabei sein",1,,,,,,,-1,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1,-1,-1,1
+235,newspaper_ampel-aus_300-400_processed.json,72,"Christian Lindner: ""Deutschlands frechster Arbeitsloser!"" Netz verspottet FDP-Politiker",1,1,1,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+236,newspaper_ampel-aus_300-400_processed.json,73,"Die Schulen hoffen auf Özdemir; Mit dem Ampel-Aus steht auch der Digitalpakt 2.0 in Frage   und damit eine bessere IT-Ausstattung an den Schulen. Eine neue Studie zeigt, wie groß der Handlungsbedarf ist. Zumindest die Bundesländer haben die Hoffnung auf eine Einigung noch nicht aufgegeben",1,-1,-1,0,0,-1,-1,-1,,,,,-1,-1,0,0,0,0,0,1,1,-1
+237,newspaper_ampel-aus_300-400_processed.json,78,Merz fordert Vertrauensfrage sofort; CDU-Chef macht nach Ampel-Aus punktuelle Zusammenarbeit mit Rot-Grün von Wahltermin im Januar abhängig,1,-1,-1,1,1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,1,1,-1,-1,1,1,1
+238,newspaper_ampel-aus_300-400_processed.json,87,Das sagt Wiesbadens Wirtschaft zum Ampel-Aus; Handwerkskammer und IHK äußern sich besorgt zum Bruch der Koalition und sehen Eile geboten,1,,,,,,,-1,,,,,,,-1,0,0,0,0,0,0,1
+239,newspaper_ampel-aus_300-400_processed.json,89,Christian Lindner News: Lindner: FDP könnte Gesetz gegen Kalte Progression zustimmen,1,-1,-1,,,1,1,-1,-1,-1,,-1,1,1,-1,1,1,0,-1,1,1,1
+240,newspaper_ampel-aus_300-400_processed.json,91,"Im Wahlamt laufen die Vorbereitungen; Nach dem Ampel-Aus findet die Bundestagswahl am 23. Februar statt / Eine Herausforderung, aber realisierbar",1,-1,-1,,,-1,-1,-1,-1,,,,,,-1,1,0,0,0,0,0,1
+241,newspaper_ampel-aus_300-400_processed.json,92,FDP sieht Vorteile nach Ampel-Aus; Die hiesigen Liberalen blicken auf die Kommunalwahlen und wollen sich mit eigenen Lösungsansätzen profilieren.,1,-1,-1,-1,-1,1,1,0,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,-1
+242,newspaper_ampel-aus_300-400_processed.json,93,Grünen-Parteitag - Krönungsmesse statt Krisentreffen,1,,,1,1,,,,,,1,1,,,-1,0,0,1,1,0,0,-1
+243,newspaper_ampel-aus_300-400_processed.json,94,Falsch bis zum Schluss; Jost Maurin über die Wirtschaftspolitik der FDP,1,1,1,,1,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+244,newspaper_ampel-aus_300-400_processed.json,95,Ampel-Aus beflügelt die Grünen; Partei stellt in Wiesbaden die Weichen für den Wahlkampf / Ricarda Lang und Omid Nouripour ziehen Bilanz,1,,,1,1,-1,-1,-1,,,1,1,,,-1,0,0,1,1,0,0,1
+245,newspaper_ampel-aus_300-400_processed.json,96,Ein beispielloser Krimi; Olaf Scholz entlässt Christian Lindner mit deutlichen Worten und besiegelt das Ampel-Aus. Deutschland vor Neuwahlen,1,1,1,0,0,-1,-1,1,1,1,1,1,-1,-1,-1,1,1,-1,-1,1,1,-1
+246,newspaper_D-Day_processed.json,2,"""D-Day""-Papier: Heftige Kritik nach Veröffentlichung - FDP skizzierte Ausstiegspläne aus der Ampel",1,-1,-1,0,0,-1,-1,-1,-1,-1,,,0,-1,-1,1,1,0,0,-1,1,1
+247,newspaper_D-Day_processed.json,4,FDP veröffentlicht »D-Day«-Papier,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,1,-1,1,1,0,0,1,-1,1
+248,newspaper_D-Day_processed.json,5,"Pläne für den ,,D-Day""",1,,,,,-1,-1,0,,,,,0,-1,-1,0,0,0,0,-1,1,-1
+249,newspaper_D-Day_processed.json,6,Lindners Weg zum D-Day,1,0,0,,0,-1,-1,1,-1,,,,-1,-1,-1,-1,0,0,0,1,1,-1
+250,newspaper_D-Day_processed.json,7,FDP verliert durch D-Day-Papier Vertrauen - Umfragen,1,0,0,0,0,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+251,newspaper_D-Day_processed.json,9,"""D-Day""-Skandal: Lindner will sich rausreden",1,0,,,,,,,,,,,,,,0,0,0,0,0,0,0
+252,newspaper_D-Day_processed.json,10,"FDP-Papier: ""D-Day-Szenario"" zu Koalitionsbruch",1,-1,-1,,0,-1,-1,-1,-1,-1,,-1,-1,-1,-1,1,1,0,-1,1,1,1
+253,newspaper_D-Day_processed.json,11,"FDP-Papier: ""D-Day-Szenario"" zu Koalitionsbruch",1,-1,-1,,-1,-1,-1,0,-1,-1,,-1,-1,-1,-1,1,1,0,1,1,1,-1
+254,newspaper_D-Day_processed.json,12,Dürr: Kannte «D-Day»-Papier auch nicht,1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+255,newspaper_D-Day_processed.json,13,Dürr: Kannte 'D-Day'-Papier auch nicht,1,,,,,-1,-1,-1,,,,,-1,-1,,0,0,0,0,1,1,0
+256,newspaper_D-Day_processed.json,14,FDP-Landesvize Czaja: «D-Day»-Papier ist indiskutabel,1,,,,,0,-1,0,,,,,,-1,-1,0,0,0,0,0,1,-1
+257,newspaper_D-Day_processed.json,15,"Dürr: Kannte ""D-Day""-Papier auch nicht",1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+258,newspaper_D-Day_processed.json,16,"FDP-Landesvize Czaja: ""D-Day""-Papier ist indiskutabel",1,,,,,0,-1,-1,,,,,,-1,,0,0,0,0,0,1,0
+259,newspaper_D-Day_processed.json,17,FDP-Landesvize Czaja: «D-Day»-Papier ist indiskutabel,1,,,,,0,-1,-1,,,,,0,-1,-1,0,0,0,0,1,1,1
+260,newspaper_D-Day_processed.json,18,Bericht; Lindner soll von  D-Day -Papier gewusst haben,1,,,,,-1,-1,0,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+261,newspaper_D-Day_processed.json,19,"""D-Day""-Papier bringt FDP-Spitze in Erklärungsnot",1,-1,-1,,-1,-1,-1,0,0,,,,,,,-1,0,0,0,0,0,0
+262,newspaper_D-Day_processed.json,20,"""D-Day""-Papier bringt FDP-Spitze in Erklärungsnot",1,-1,-1,,-1,-1,-1,0,0,,,,,,,-1,0,0,0,0,0,0
+263,newspaper_D-Day_processed.json,21,„D-Day“ stürzt FDP in tiefe Krise,1,0,0,,0,-1,-1,-1,0,0,,0,-1,-1,-1,1,1,0,1,1,1,1
+264,newspaper_D-Day_processed.json,22,D-Day -Papier wird zum Fiasko für FDP,1,,,,,-1,-1,,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+265,newspaper_D-Day_processed.json,23,"FDP: Doppelter Rücktritt wegen ""D-Day""-Papier",1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+266,newspaper_D-Day_processed.json,24,Nach 'D-Day'-Papier: Lindner will nicht zurücktreten,1,0,0,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+267,newspaper_D-Day_processed.json,26,ROUNDUP/FDP-Papier: 'D-Day-Szenario' zu Koalitionsbruch,1,-1,-1,,-1,-1,-1,-1,-1,-1,,-1,-1,-1,-1,1,1,0,1,1,1,1
+268,newspaper_D-Day_processed.json,27,Ampelbruch: FDP veröffentlicht D-Day-Drehbuch,1,-1,-1,,,-1,0,-1,-1,,,,-1,-1,-1,1,0,0,0,1,-1,1
+269,newspaper_D-Day_processed.json,33,Kemmerich: «D-Day»-Papier war unprofessionell,1,-1,,,,0,-1,-1,,,,,1,-1,-1,0,0,0,0,-1,1,1
+270,newspaper_D-Day_processed.json,39,"Vor dem ,,D-Day""",1,,,,,,,,,,,,-1,-1,-1,0,0,0,0,-1,-1,-1
+271,newspaper_D-Day_processed.json,40,"""D-Day""-Dokument: Kann man der FDP noch glauben?",1,,,,,-1,-1,-1,,,,,0,-1,-1,0,0,0,0,-1,1,1
+272,newspaper_D-Day_processed.json,42,"Kemmerich: ""D-Day""-Papier war unprofessionell",1,-1,,,,0,-1,-1,,,,,,-1,-1,0,0,0,0,0,1,1
+273,newspaper_D-Day_processed.json,43,ROUNDUP: 'D-Day'-Papier bringt FDP-Spitze in Erklärungsnot,1,-1,-1,,-1,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+274,newspaper_D-Day_processed.json,44,"Lindner, die FDP und der ,,D-Day""",1,0,0,,,-1,-1,0,,,,,-1,-1,,0,0,0,0,1,1,0
+275,newspaper_D-Day_processed.json,45,D-Day und offene Feldschlacht,1,-1,-1,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+276,newspaper_D-Day_processed.json,46,"Nach ""D-Day""-Enthüllungen: FDP-Generalsekretär Djir-Sarai tritt zurück",1,,,,,-1,-1,-1,,,,,,-1,-1,0,0,0,0,0,1,1
+277,newspaper_D-Day_processed.json,47,"""D-Day-Papier"": Grünen-Chefin Brantner bezweifelt Unwissenheit Lindners",1,,,,1,-1,-1,-1,,,,0,-1,-1,-1,0,0,0,-1,1,1,1
+278,newspaper_D-Day_processed.json,48,"Der ""D-Day"" fordert seinen Tribut",1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+279,newspaper_D-Day_processed.json,49,"Der ,,D-Day"" holt die FDP ein",1,,,,,,,,,,,,-1,-1,-1,0,0,0,0,-1,-1,-1
+280,newspaper_D-Day_processed.json,50,"FDP-Papier: Warum die Verwendung des Begriffs ""D-Day"" problematisch ist",1,,,,1,-1,-1,-1,,,,1,,-1,-1,0,0,0,1,0,1,1
+281,newspaper_D-Day_processed.json,51,"""D-Day""-Papier: Das ist über Verfasser Carsten Reymann bekannt",1,0,0,,,-1,-1,0,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+282,newspaper_D-Day_processed.json,52,FDP macht  D-Day -Papier öffentlich;  Beginn der offenen Feldschlacht,1,-1,-1,0,-1,-1,-1,-1,,-1,,-1,-1,-1,-1,0,1,0,1,1,1,1
+283,newspaper_D-Day_processed.json,53,Banaszak zweifelt an Lindner-Darstellung zu „D-Day“-Papier,1,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+284,newspaper_D-Day_processed.json,54,Christian Lindner und der „D-Day“,1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+285,newspaper_D-Day_processed.json,55,Lindner-Vertrauter entschuldigt sich für Wortwahl im »D-Day«-Papier,1,,,,,-1,-1,,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+286,newspaper_D-Day_processed.json,59,Banaszak zweifelt an Lindner-Darstellung zu «D-Day»-Papier,1,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+287,newspaper_D-Day_processed.json,61,"Banaszak zweifelt an Lindner-Darstellung zu ""D-Day""-Papier",0,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+288,newspaper_D-Day_processed.json,62,Miersch fordert Entschuldigung von Lindner für »D-Day«-Papier,1,,0,0,,-1,-1,-1,,-1,,-1,-1,-1,-1,0,-1,0,-1,1,1,1
+289,newspaper_D-Day_processed.json,63,"FDP veröffentlicht ""D-Day""-Papier - Ex-Ampel-Partner empört",1,-1,-1,,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+290,newspaper_D-Day_processed.json,64,"""Totalausfall"": Politiker sind empört über ""D-Day""-Papier der FDP",1,-1,0,,0,-1,-1,-1,-1,-1,,-1,-1,-1,-1,1,-1,0,-1,1,1,1
+291,newspaper_D-Day_processed.json,65,Die FDP veröffentlicht ihr «D-Day»-Papier,1,1,0,,0,-1,-1,0,1,0,,0,-1,-1,-1,1,1,0,1,1,1,-1
+292,newspaper_D-Day_processed.json,66,"FDP veröffentlicht ""D-Day""-Papier - Ex-Ampel-Partner empört",1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+293,newspaper_D-Day_processed.json,67,FDP veröffentlicht «D-Day»-Papier - Ex-Ampel-Partner empört,1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+294,newspaper_D-Day_processed.json,68,"Lindner verteidigt FDP gegen Kritik an ""D-Day-Papier""",1,,,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+295,newspaper_D-Day_processed.json,69,Debatte um 'D-Day'-Papier - Lindner wendet sich an Bürger,1,,,,,,,,,,,,1,1,,0,0,0,0,-1,-1,0
+296,newspaper_D-Day_processed.json,70,Debatte um «D-Day»-Papier - Lindner wendet sich an Bürger,1,,,,,,,,,,,,-1,-1,0,0,0,0,0,-1,-1,-1
+297,newspaper_D-Day_processed.json,72,"FDP veröffentlicht ,,D-Day""-Papier - Ex-Ampel-Partner empört",1,-1,0,,0,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+298,newspaper_D-Day_processed.json,73,"Debatte um ""D-Day""-Papier - Lindner wendet sich an Bürger",1,,,,,,,,,,,,-1,-1,0,0,0,0,0,-1,-1,-1
+299,newspaper_D-Day_processed.json,75,"FDP-""D-Day""-Papier: Rücktritte schocken Partei kurz vor Bundestagswahl",1,,,,,-1,-1,0,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+300,newspaper_D-Day_processed.json,76,"""D-Day""-Papier: FDP verteidigt umstrittenes Strategiepapier zum Ampel-Aus",1,-1,-1,,-1,-1,-1,-1,0,0,0,0,-1,-1,-1,-1,-1,-1,-1,1,1,1
+301,newspaper_D-Day_processed.json,77,"Lindner und Dürr stellen ""D-Day-Papier"" als unwichtig dar",1,,,,,-1,-1,-1,,,,,-1,-1,0,0,0,0,0,1,1,-1
+302,newspaper_D-Day_processed.json,78,"FDP: Fraktionschef Dürr kannte ""D-Day""-Papier nicht",1,1,1,0,1,-1,-1,-1,1,1,,,,,,1,1,0,0,0,0,0
+303,newspaper_D-Day_processed.json,79,"Affäre um ,,D-Day-Papier"": FDP-Generalsekretär und Bundesgeschätsführer treten zurück",1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+304,newspaper_D-Day_processed.json,80,Strategie-Papier zum Ampel-Aus;  D-Day -Lüge! FDP entlarvt sich selbst,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+305,newspaper_D-Day_processed.json,81,POLITIK: Banaszak zweifelt an Lindner-Darstellung zu 'D-Day'-Papier,1,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+306,newspaper_D-Day_processed.json,83,POLITIK: Grünen-Chefin bezweifelt Unwissenheit Lindners zu 'D-Day'-Papier,1,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+307,newspaper_D-Day_processed.json,84,ROUNDUP: FDP veröffentlicht 'D-Day'-Papier - Ex-Ampel-Partner empört,1,-1,-1,,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+308,newspaper_D-Day_processed.json,85,WDH: FDP veröffentlicht 'D-Day'-Papier - Ex-Ampel-Partner empört,1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+309,newspaper_D-Day_processed.json,86,WDH: Debatte um 'D-Day'-Papier - Lindner wendet sich an Bürger,1,,,,,,,,,,,,1,0,-1,0,0,0,0,-1,-1,-1
+310,newspaper_D-Day_processed.json,87,",,D-Day""-Desaster bei der FDP",1,,,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+311,newspaper_D-Day_processed.json,88,"Christian Lindner News: Nach ""D-Day""-Papier: Lindner will nicht zurücktreten",1,0,0,,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+312,newspaper_D-Day_processed.json,89,D-Day-Desaster; War s das für Lindner und seine FDP?,1,,,,,1,1,,,,,,1,1,,0,0,0,0,1,1,0
+313,newspaper_D-Day_processed.json,90,Unionspolitiker warnen nach Projekt D-Day vor Schwarz-Gelb,1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+314,newspaper_D-Day_processed.json,91,"""D-Day""-Papier der FDP: Heftige Reaktionen von SPD und Grüne",1,,-1,0,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+315,newspaper_D-Day_processed.json,92,"Lindner verteidigt FDP gegen Kritik an ""D-Day-Papier""",1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+316,newspaper_D-Day_processed.json,93,"""D-Day""-Skandal: Christian Lindner weist Vorwürfe zurück",1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+317,newspaper_D-Day_processed.json,94,Miersch fordert Entschuldigung von Lindner zu 'D-Day'-Papier,1,,-1,,,-1,-1,-1,,-1,,,-1,-1,-1,0,1,0,0,1,1,1
+318,newspaper_D-Day_processed.json,95,"Vogt zum ""D-Day""-Papier: Einer liberalen Partei unwürdig",1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+319,newspaper_D-Day_processed.json,96,Lindner will weiterhin nichts von »D-Day«-Papier gewusst haben,1,0,0,,0,-1,-1,-1,0,,,,,,,1,0,0,0,0,0,0
+320,newspaper_D-Day_processed.json,97,ROUNDUP 2: FDP veröffentlicht 'D-Day'-Papier - Ex-Ampel-Partner empört,1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+321,newspaper_D-Day_processed.json,98,Vogt zum «D-Day»-Papier: Einer liberalen Partei unwürdig,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+322,newspaper_D-Day_processed.json,99,"FDP-Chef Lindner nach D-Day-Desaster: ,,Natürlich muss ich mich prüfen""",1,0,,,,,,,-1,,,,-1,-1,-1,-1,0,0,0,-1,-1,-1
+323,newspaper_D-Day_processed.json,100,Vogt zum «D-Day»-Papier: Einer liberalen Partei unwürdig,1,-1,-1,,,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+324,newspaper_D-Day_processed.json,101,"Rücktritt nach ,,D-Day-Papier"": FDP-Generalsekretär Djir-Sarai ist nur ein Bauernopfer",1,1,0,0,0,-1,-1,0,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+325,newspaper_D-Day_processed.json,102,Skandal kostete Vorgänger den Job; Buschmann kann sich nicht an  D-Day  erinnern,1,,,,,1,1,,,,,,1,0,,0,0,0,0,1,-1,0
+326,newspaper_D-Day_processed.json,103,"""D-Day""-Dokument aufgetaucht: ""Beginn der offenen Feldschlacht""",1,-1,-1,,,0,1,-1,-1,,,,-1,1,-1,1,0,0,0,-1,1,1
+327,newspaper_D-Day_processed.json,104,"FDP-Generalsekretär Djir-Sarai tritt wegen Affäre um ""D-Day-Papier"" zurück",1,,,,,0,-1,-1,,,,,,,,0,0,0,0,0,0,0
+328,newspaper_D-Day_processed.json,105,"Christian Lindner: Grünen-Chefin bezweifelt Unwissenheit Lindners zu ""D-Day""-Papier",1,,,,1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+329,newspaper_D-Day_processed.json,106,"FDP in Turbulenzen: Generalsekretär Djir-Sarai tritt wegen ""D-Day-Papier"" zurück",1,1,1,,1,-1,-1,-1,1,,,,,,,1,0,0,0,0,0,0
+330,newspaper_D-Day_processed.json,107,"FDP in Turbulenzen: Generalsekretär Djir-Sarai tritt wegen ""D-Day-Papier"" zurück",1,0,,,,,,,1,1,,,-1,-1,-1,-1,-1,0,0,-1,-1,-1
+331,newspaper_D-Day_processed.json,108,"FDP gerät wegen ,,D-Day""-Papier in Turbulenzen - Lindner auf Tauchstation",1,-1,-1,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+332,newspaper_D-Day_processed.json,109,Das «D-Day»-Papier stürzt die FDP in die Krise,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+333,newspaper_D-Day_processed.json,110,D-Day-Desaster; War s das für Lindner und seine FDP?,1,,,,,1,1,,,,,,1,1,,0,0,0,0,1,1,0
+334,newspaper_D-Day_processed.json,111,Nach D-Day-Debakel in Deutschland: Buschmann soll neuer FDP-Generalsekretär werden,1,-1,-1,0,0,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+335,newspaper_D-Day_processed.json,112,Nach D-Day-Skandal: FDP-General Djir-Sarai tritt zurück,1,,,,,-1,-1,-1,,,,,0,-1,-1,0,0,0,0,-1,1,1
+336,newspaper_D-Day_processed.json,113,FDP-Papier zeigt 'D-Day-Szenario' zu Koalitionsbruch,1,-1,-1,0,0,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+337,newspaper_D-Day_processed.json,114,FDP-Papier zeigt  D-Day-Szenario  zu Bruch der Koalition,1,-1,-1,,,-1,-1,-1,-1,,,,-1,-1,-1,1,0,0,0,1,1,1
+338,newspaper_D-Day_processed.json,115,"""D-Day-Papier"" der FDP: Scholz sieht sich in Entschluss zu Ampel-Aus bestätigt",1,1,1,,0,-1,-1,0,1,1,,,-1,-1,1,1,1,0,0,1,1,-1
+339,newspaper_D-Day_processed.json,116,"Christian Lindner News: Miersch fordert Entschuldigung von Lindner zu ""D-Day""-Papier",1,,-1,,,-1,-1,-1,,-1,,,-1,-1,-1,0,1,0,0,1,1,1
+340,newspaper_D-Day_processed.json,117,"Christian Lindner News: Debatte um ""D-Day""-Papier - Lindner wendet sich an Bürger",1,,,,,,,,,,,,-1,-1,0,0,0,0,0,-1,-1,-1
+341,newspaper_D-Day_processed.json,118,"Christian Lindner News: Banaszak zweifelt an Lindner-Darstellung zu ""D-Day""-Papier",1,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+342,newspaper_D-Day_processed.json,119,"FDP in der Krise: Doppel-Rücktritt wegen Affäre um ""D-Day-Papier""",1,1,1,,1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+343,newspaper_D-Day_processed.json,120,"FDP in der Krise: Doppel-Rücktritt wegen Affäre um ""D-Day-Papier""",1,1,1,,1,-1,-1,1,1,0,,0,0,-1,-1,1,-1,0,-1,-1,1,-1
+344,newspaper_D-Day_processed.json,121,D-Day -Papier; Noch lieber als die AfD hassen deutsche Journalisten nur die FDP,1,,,0,0,-1,-1,0,,,,,,-1,,0,0,0,0,0,1,0
+345,newspaper_D-Day_processed.json,122,Ampel-Aus und D-Day-Affäre: Die FDP sollte endlich mehr Demut wagen,1,-1,-1,,,-1,-1,-1,,,,,-1,-1,,0,0,0,0,1,1,0
+346,newspaper_D-Day_processed.json,123,",,D-Day""-Papier; Grünen-Chef Banaszak bezeichnet FDP als ,,sehr autoritär geführte Partei""",1,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+347,newspaper_D-Day_processed.json,125,D-Day -Papier; Noch lieber als die AfD hassen deutsche Journalisten nur die FDP,1,,,0,0,-1,-1,0,,,,,,-1,,0,0,0,0,0,1,0
+348,newspaper_D-Day_processed.json,126,",,D-Day""-Papier; Grünen-Chef Banaszak bezeichnet FDP als ,,sehr autoritär geführte Partei""",1,,,,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+349,newspaper_D-Day_processed.json,127,"""Markus Lanz"": Moderator spricht heute über den D-Day der FDP | ZDF",1,,,,,0,-1,-1,,,,,-1,-1,,0,0,0,0,-1,1,0
+350,newspaper_D-Day_processed.json,128,D-Day -Papier; Noch lieber als die AfD hassen deutsche Journalisten nur die FDP,1,,,0,0,-1,-1,0,,,,,,-1,,0,0,0,0,0,1,0
+351,newspaper_D-Day_processed.json,130,"""D-Day"": FDP veröffentlicht Strategiepapier zum Aus der Ampelkoalition",1,-1,-1,0,0,1,1,-1,,,,,,,,0,0,0,0,0,0,0
+352,newspaper_D-Day_processed.json,131,"Nach ,,D-Day""-Affäre; Buschmann nennt FDP eine Partei von ,,Anstand und Integrität""",1,-1,-1,,,0,1,-1,,,,,1,1,,0,0,0,0,-1,1,0
+353,newspaper_D-Day_processed.json,132,"Nach ,,D-Day""-Papier; FDP legt Geheimplan für Ausstieg aus dem Bundestag vor",1,-1,-1,,,1,1,-1,0,,,,,,,-1,0,0,0,0,0,0
+354,newspaper_D-Day_processed.json,133,"Ampel-Aus; ,,Beginn der offenen Feldschlacht"" - FDP veröffentlicht ,,D-Day""-Papier",1,-1,-1,0,0,-1,-1,-1,-1,,,,-1,0,-1,1,0,0,0,1,-1,1
+355,newspaper_D-Day_processed.json,135,"Ampel-Aus; ,,Beginn der offenen Feldschlacht"" - FDP veröffentlicht ,,D-Day""-Papier",1,-1,-1,0,0,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+356,newspaper_D-Day_processed.json,136,",,D-Day""-Debatte; ,,Für mich ist Haltung wichtig"" - Ex-Schatzmeister Harald Christ tritt aus FDP aus",1,,,,,,,,,0,,0,-1,-1,-1,0,-1,0,-1,-1,-1,-1
+357,newspaper_D-Day_processed.json,137,"Christian Lindner distanziert sich erneut von ""D-Day""-Papier; Der FDP-Chef bekräftigt, das ""D-Day""-Dokument nicht gekannt zu haben und einen Rücktritt ausgeschlossen. Die ""Mängel in der Krisenkommunikation"" will er aufarbeiten.",1,,,,,1,1,-1,,,,,1,1,-1,0,0,0,0,1,1,1
+358,newspaper_D-Day_processed.json,138,Debatte um D-Day-Papier: Lindner reagiert mit ausführlicher Videobotschaft,1,-1,-1,0,,-1,-1,-1,-1,-1,,0,1,1,-1,1,1,0,-1,-1,-1,1
+359,newspaper_D-Day_processed.json,139,"Eine Partei ohne Anstand; FDP: ,,D-Day""-Pläne sorgen zu Recht für Empörung",1,,,,,,,,,,,,-1,-1,-1,0,0,0,0,-1,-1,-1
+360,newspaper_D-Day_processed.json,140,Die FDP in der D-Day-Krise; Lindner macht Buschmann zum Generalsekretär,1,,,,,1,1,,,,,,1,1,,0,0,0,0,1,1,0
+361,newspaper_D-Day_processed.json,141,"Bösartig, ehrlos  Ampel-Männer feinden sich wegen D-Day-Drehbuch an",1,1,1,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+362,newspaper_D-Day_processed.json,142,"""Das D-Day-Papier spricht für einen Testosteron-Überschuss""",1,0,0,-1,0,1,0,-1,,,,,0,-1,-1,0,0,0,0,-1,-1,1
+363,newspaper_D-Day_processed.json,144,"Partei gerät in Turbulenzen: Wusste die FDP-Führung wirklich nichts vom ,,D-Day-Papier""?",1,-1,-1,0,0,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+364,newspaper_D-Day_processed.json,145,FDP-Strategiepapier zum Ampel-Aus: D-Day und offene Feldschlacht,1,-1,-1,,,-1,-1,0,,-1,,,,-1,,0,1,0,0,0,1,0
+365,newspaper_D-Day_processed.json,146,"""Das D-Day-Papier spricht für einen Testosteron-Überschuss""",1,0,0,-1,0,1,0,-1,,,,,0,-1,-1,0,0,0,0,-1,-1,1
+366,newspaper_D-Day_processed.json,147,D-Day -Papier und die Folgen; FDP in Trümmern   und die Chance auf weibliche Erneuerung,1,,,,,-1,-1,,,,,,-1,-1,,0,0,0,0,1,1,0
+367,newspaper_D-Day_processed.json,148,„Das D-Day-Papier spricht für einen Testosteron-Überschuss“,1,,,-1,-1,0,0,-1,,,,,0,1,-1,0,0,0,0,1,-1,1
+368,newspaper_D-Day_processed.json,149,Wirbel um D-Day-Papier: FDP-Nachwuchs fordert Djir-Sarai zum Rücktritt auf,1,,,,,0,-1,-1,,,,,,-1,,0,0,0,0,0,1,0
+369,newspaper_D-Day_processed.json,150,"FDP-Papier löst Beben aus; ,,D-Day"" Das Bekanntwerden der Strategie zum Ampel-Ausstieg hat personelle Konsequenzen.",1,,,,,-1,-1,0,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+370,newspaper_D-Day_processed.json,152,Wirbel um D-Day-Papier: FDP-Nachwuchs fordert Djir-Sarai zum Rücktritt auf,1,,,,,-1,-1,-1,,,,,,-1,-1,0,0,0,0,0,1,1
+371,newspaper_D-Day_processed.json,153,Nach D-Day-Beben: Ex-FDP-Schatzmeister verlässt die Partei,1,-1,-1,0,0,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+372,newspaper_D-Day_processed.json,160,"FDP-Pläne zum Ampel-Aus; Das  D-Day -Drehbuch, über das Deutschland spricht",1,-1,-1,,,-1,-1,0,0,1,,,-1,-1,-1,-1,-1,0,0,1,1,-1
+373,newspaper_D-Day_processed.json,163,Wäre nützlicher Idiot gewesen ; Interview FDP-Chef Lindner über Verhältnis zum Kanzler und  D-Day -Papier,1,-1,-1,0,-1,1,1,-1,-1,-1,,-1,0,0,-1,1,1,0,1,-1,-1,1
+374,newspaper_D-Day_processed.json,165,"D-Day-Skandal! Grünen-Chefin Brantner glaubt FDP-Chef kein Wort;  Ich kann mir nicht vorstellen, dass Lindner nichts wusste",1,,,0,1,-1,-1,-1,,,,1,-1,-1,-1,0,0,0,1,1,1,1
+375,newspaper_D-Day_processed.json,166,"FDP in einer schweren Krise: Wie es nach dem ,,D-Day""-Papier und den Rücktritten weitergeht",1,0,0,,,-1,-1,0,,,,,,,,0,0,0,0,0,0,0
+376,newspaper_D-Day_processed.json,167,Nach D-Day-Papier: FDP-General Djir-Sarai tritt offenbar zurück,1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+377,newspaper_D-Day_processed.json,168,Der Fall «D-Day» und die fatalen Folgen für die FDP und Deutschland: Eine Partei in der Krise,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+378,newspaper_D-Day_processed.json,169,Liberale unter Druck; Das  D-Day -Debakel der FDP   und ein gefährliches Signal aus der Union,1,1,1,0,0,-1,-1,1,,-1,,,,-1,-1,0,-1,0,0,0,1,-1
+379,newspaper_D-Day_processed.json,170,"Kein weiteres Jahr ""rumscholzen""; FDP-Chef Christian Lindner über den ""D-Day"" und den Bruch der Ampelkoalition",1,-1,-1,,-1,1,1,-1,-1,-1,,-1,1,1,-1,1,1,0,1,1,1,1
+380,newspaper_D-Day_processed.json,183,"Ist die FDP JETZT am Ende?; Die D-Day-Enthüllungen erschüttern die Liberalen: Lügen, Rücktritte, Wut und Riesen-Angst vor dem Absturz",1,,,,,-1,-1,,,,,,,,,0,0,0,0,0,0,0
+381,newspaper_D-Day_processed.json,186,Der Fall «D-Day» und die fatalen Folgen für die FDP und Deutschland; Eine Partei in der Krise,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+382,newspaper_D-Day_processed.json,189,FDP-Papier zeigt „D-Day-Szenario“; Regierung Liberalen planten den Bruch in vier Phasen – „offene Feldschlacht“ am Ende.,1,-1,-1,,,-1,1,-1,-1,,,,-1,0,-1,1,0,0,0,1,-1,1
+383,newspaper_D-Day_processed.json,190,"Die Liberalen wanken; Veröffentlichtes ""D-Day""-Papier stürzt FDP in tiefe Krise / Parteichef Lindner bleibt zunächst von interner Kritik verschont",1,1,1,,,-1,-1,0,,,,,0,-1,-1,0,0,0,0,-1,1,-1
+384,newspaper_D-Day_processed.json,205,"Ehemaliger FDP-Schatzmeister verlässt Partei; Der Unternehmer Harald Christ tritt aus der FDP aus. Sein Schritt sei überfällig, das ""D-Day""-Papier habe seine Entscheidung beschleunigt.",1,,,,,,,,,,,,,-1,-1,0,0,0,0,0,-1,-1
+385,newspaper_D-Day_processed.json,211,"Kapitulation nach dem ,,D-Day""; Nach der eigenen Veröffentlichung eines Strategieplans zum Ampel-Ausstieg verkünden zwei führende Köpfe der FDP ihren Rücktritt",1,1,1,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+386,newspaper_D-Day_processed.json,215,"Unruhige Zeiten bei den Freien Demokraten; Zum Artikel ,,Kapitulation nach dem D-Day"" und dem Interview ,,Ich weiß jetzt, wie Herr Scholz mich sieht"" über Christian Lindner schreiben mehrere Leser.",1,-1,-1,,,-1,1,0,,,,,,,,0,0,0,0,0,0,0
+387,newspaper_D-Day_processed.json,223,"Andere Parteien wären froh, einen Chef wie Lindner zu haben; Nach Ampel-Aus Was Marco Buschmann im ersten Zeitungsinterview als FDP-Generalsekretär zur D-Day-Affäre sagt",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+388,newspaper_D-Day_processed.json,224,German liberals hatched 'D-Day' plot to end Scholz coalition; Free Democrats,1,1,0,,,-1,-1,-1,0,0,,,-1,-1,-1,-1,1,0,0,1,1,1
+389,newspaper_D-Day_processed.json,229,"FDP-Generalsekretär tritt wegen „D-Day-Papier“ zurück; Parteien Das Schreiben skizziert detailliert den Plan zum Bruch der Ampel-Koalition. Die FDP-Spitze beteuert weiter, es nicht gekannt zu haben.",1,,0,,0,-1,-1,-1,0,0,,0,-1,-1,-1,-1,1,0,1,1,1,1
+390,newspaper_D-Day_processed.json,237,"""D-Day""-Papier zwingt FDP-Generalsekretär zum Rücktritt; In dem Dokument hatte die Partei schon im Herbst detailliert ihre Pläne für den Ausstieg aus der Ampelkoalition skizziert",1,-1,-1,0,0,-1,-1,-1,1,,,,,,,-1,0,0,0,0,0,0
+391,newspaper_D-Day_processed.json,240,German liberals in turmoil over ‘D-Day’ plot to end Scholz’s coalition,1,1,0,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+392,newspaper_D-Day_processed.json,241,„Millionäre haben wir leider nicht“; FDP-Fraktionsvorsitzende Annette Pizzato über „D-Day“-Papier und Chancen im Bundestagswahlkampf.,1,-1,-1,,,-1,1,-1,,,,,0,1,,0,0,0,0,-1,1,0
+393,newspaper_D-Day_processed.json,245,"Scholz sieht sich in Entschluss zu Ampel-Aus bestätigt; Der Bundeskanzler hält das Ende der Regierung auch im Nachhinein für richtig. Das habe nicht zuletzt das ""D-Day""-Strategiepapier der FDP gezeigt, sagte Scholz.",1,1,1,,0,-1,-1,1,-1,-1,,,-1,-1,-1,-1,-1,0,0,1,1,-1
+394,newspaper_D-Day_processed.json,248,"„Die Koalition hatte keine Kraft mehr“; Im ersten Interview als Generalsekretär erklärt der Ex-Justizminister, wie es zum „D-Day-Papier“ kam und was der Schwerpunkt im Wahlkampf sein wird.",1,-1,-1,,-1,1,1,-1,,,,,,,,0,0,0,0,0,0,0
+395,newspaper_D-Day_processed.json,256,Die Union rückt von der FDP ab; Schwarz-Gelb galt bei Politikern von CDU und CSU lange als Wunschkoalition - doch die D-Day-Ereignisse haben Zweifel gesät,1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+396,newspaper_D-Day_processed.json,258,"Black ""D-Day""; Der FDP-Generalsekretär und der Geschäftsführer sind zurückgetreten. Was heißt das für Christian Lindner? Und: Georgien pausiert Beitrittsgespräche mit EU.",0,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+397,newspaper_D-Day_processed.json,259,Wie groß ist die Entfremdung?; Bisher war Schwarz-Gelb eine Wunschkoalition der Union. Die D-Day-Ereignisse haben auch Politiker von CDU und CSU ins Grübeln gebracht.,1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+398,newspaper_D-Day_processed.json,262,Senior Scholz ex-ally quits over ‘D-Day’ paper on German government collapse,1,0,0,,,,,,0,,,,,,,1,0,0,0,0,0,0
+399,newspaper_D-Day_processed.json,275,"Gerhart Baum sieht die FDP ""auf dem Weg zur Selbstzerstörung""; In der Affäre um das ""D-Day""-Papier warnt der ehemalige Innenminister Gerhart Baum seine Partei vor dem ""Verschwinden"". Er fordert einen Neuanfang noch vor Weihnachten.",1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+400,newspaper_D-Day_processed.json,276,Germany: 'D-Day paper' affair: Can Germany's FDP still be salvaged?,1,1,0,,0,-1,-1,0,1,0,,0,-1,-1,-1,1,1,0,1,1,1,-1
+401,newspaper_D-Day_processed.json,285,Nicht länger »rumscholzen«; FDP-Chef Christian Lindner äußert sich im ersten ausführlichen Interview seit Bekanntwerden des »D-Day-Papiers«. Über den neuen Generalsekretär und seine Beziehung zum Kanzler.,1,-1,-1,,-1,1,1,-1,-1,-1,,-1,1,1,-1,1,1,0,1,1,1,1
+402,newspaper_D-Day_processed.json,286,"Lindner verteidigt FDP nach Debatte um Strategiepapier; FDP-Chef Lindner verteidigt seine Partei nach dem ""D-Day""-Papier zum Ampel-Aus. Die Regierung sei nicht an der FDP gescheitert, sondern an fehlender Bürgerakzeptanz.",1,0,0,,0,1,0,0,,,,,1,-1,0,0,0,0,0,1,-1,1
+403,newspaper_D-Day_processed.json,290,"Hessischer FDP-Politiker fordert Christian Lindner zum Rücktritt auf; Das ""D-Day""-Papier der FDP zum Austritt aus der Ampel verursacht offenbar auch intern Unbehagen. Der Initiator einer Basisinitiative fordert einen personellen Neuanfang.",1,,,,,-1,-1,,,,,,-1,-1,-1,0,0,0,0,1,1,-1
+404,newspaper_D-Day_processed.json,302,Senior figure with Scholz's ex-allies quits over 'D-Day' paper on German government collapse,1,0,0,,0,-1,-1,-1,-1,-1,,,,-1,-1,-1,-1,0,0,0,1,1
+405,newspaper_D-Day_processed.json,304,Senior figure with Scholz's ex-allies quits over 'D-Day' paper on German government collapse,1,0,0,,0,-1,-1,-1,-1,,,,-1,-1,-1,-1,0,0,0,1,1,1
+406,newspaper_D-Day_processed.json,306,"Urheber von ""D-Day""-Papier entschuldigt sich laut Bericht für Wortwahl; Nach dem Bekanntwerden des FDP-Papiers zum Koalitionsbruch trat auch Bundesgeschäftsführer Reymann zurück. Intern soll er sich nun für seine Wortwahl entschuldigt haben.",1,,,,,-1,-1,-1,,,,,1,-1,-1,0,0,0,0,-1,1,1
+407,newspaper_D-Day_processed.json,310,"Buschmann folgt Djir-Sarai als FDP-Generalsekretär; Ob der Ex-Justizminister die Liberalen aus der  D-Day -Krise führen kann, ist ungewiss. Auch FDP-Chef Lindner ist angeschlagen. SPD und Grüne üben weiter Kritik an der Partei",1,1,1,,1,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+408,newspaper_D-Day_processed.json,312,Senior figure with Scholz's ex-allies quits over 'D-Day' paper on German government collapse,1,0,0,,0,-1,-1,-1,-1,,,,-1,-1,-1,-1,0,0,0,1,1,1
+409,newspaper_D-Day_processed.json,316,Ex-Justizminister Buschmann wird neuer FDP-Generalsekretär; Nach dem Bekanntwerden des  D-Day-Papiers  war Bijan Djir-Sarai zurückgetreten. Nun haben die Liberalen einen Nachfolger nominiert. Parteichef Christian Lindner:  Ich bin erleichtert,1,-1,-1,,-1,0,1,-1,-1,,,,0,1,-1,1,0,0,0,1,1,1
+410,newspaper_D-Day_processed.json,320,"„Ich weiß doch, wie Herr Scholz mich sieht“; Der Parteichef über das „D-Day-Papier“, den neuen Generalsekretär und warum er nicht an eine Versöhnung mit dem Kanzler glaubt.",1,-1,-1,,-1,1,1,-1,,,,,,,,0,0,0,0,0,0,0
+411,newspaper_D-Day_processed.json,331,"""Vicious, dishonorable"" traffic light men hostile to each other over D-Day script",1,1,1,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+412,newspaper_D-Day_processed.json,334,"Chaos in der FDP - kann sich Parteichef Lindner halten?; Die Enthüllungen der ""D-Day""-Papiere und die Lügen der Parteispitze stürzen die FDP in eine Krise. Wie sich Christian Lindner retten will, in ""Was jetzt? - Die Woche"".",1,,,,,-1,-1,,,,,,-1,-1,,0,0,0,0,1,1,0
+413,newspaper_D-Day_processed.json,344,"Der Weg zum Bruch der Koalition; Die FDP-Spitze veröffentlicht das Papier „D-Day“, in dem sie seit Oktober das Ende der Ampel-Regierung durchgespielt hat. Die SPD reagiert entsetzt.",1,-1,-1,0,0,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+414,newspaper_D-Day_processed.json,354,D-day: All eyes on Maha & Jharkhand,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+415,newspaper_D-Day_processed.json,359,"Das liberale Drehbuch für den Regierungssturz; Geheime Sitzungen, Präsentationen, Strategiepapiere: Recherchen der ZEIT zeigen, wie die FDP den Bruch der Ampel wochenlang vorbereitete. Der Name der Operation: ""D-Day""",1,-1,-1,0,-1,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+416,newspaper_D-Day_processed.json,360,"Mission: Rettet Lindner; Nach ""D-Day"" und ""Offener Feldschlacht"" tritt FDP-Generalsekretär Bijan Djir-Sarai zurück. Er tut es, damit Parteichef Christian Lindner im Amt bleiben kann.",1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+417,newspaper_D-Day_processed.json,365,WATER DEBTS D-Day with Treasury set to withhold funds to five municipalities,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+418,newspaper_D-Day_processed.json,373,D-Day for Ribera: he appears in Congress while the agreement to save the European Commission is being finalized.,1,,,,,,,,,,,,,,0,0,0,0,0,0,0,-1
+419,newspaper_D-Day_processed.json,374,Both sides in a huddle ahead of D-Day,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+420,newspaper_D-Day_processed.json,377,"Mahayuti, MVA in a huddle ahead of D-day",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+421,newspaper_D-Day_processed.json,386,"""Der ganze Ton hat mich maximal irritiert""; Ex-FDP-Schatzmeister Harald Christ hat die Partei wegen der ""D-Day""-Affäre verlassen. Die Liberalen müssten nun die richtigen Lehren ziehen, fordert er.",1,,,,,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+422,newspaper_D-Day_processed.json,394,D-Day for calendar year plan with FAI braced for tight vote,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+423,newspaper_D-Day_processed.json,441,"Former Justice Minister Buschmann becomes new FDP Secretary General; Bijan Djir-Sarai resigned after the ""D-Day paper"" came to light. Now the Liberals have nominated a successor. Party leader Christian Lindner: ""I am relieved """,1,-1,-1,,,1,1,-1,-1,-1,,-1,0,1,-1,1,1,0,-1,-1,1,1
+424,newspaper_D-Day_processed.json,443,"D-DAY TOMORROW ON  PROSECUTION'S APPEAL IN BUNG MOKTAR, WIFE'S GRAFT CASE",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+425,newspaper_D-Day_processed.json,444,"D-day Tomorrow On Prosecution's Appeal In bung Moktar, Wife's Graft Case",1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+426,newspaper_D-Day_processed.json,446,"Juli-Chefin fordert Djir-Sarai zum Rücktritt auf; Die Chefin der Jungen Liberalen, Franziska Brandmann, nennt das Vorgehen der FDP-Spitze unwürdig. Christian Lindner und andere Liberale verteidigen die D-Day-Strategie.",1,,,,,-1,-1,0,,,,,-1,-1,0,0,0,0,0,1,1,1
+427,newspaper_D-Day_processed.json,450,Von nachvollziehbar bis unverzeihlich,1,,,,,-1,-1,-1,,,,,-1,-1,,0,0,0,0,1,1,0
+428,newspaper_D-Day_processed.json,453,FDP-Fraktionschef zum Papier für Ampel-Ausstieg: Beschämend,1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+429,newspaper_D-Day_processed.json,454,Das Ampel-Aus-Papier;  Beginn der offenen Feldschlacht!,1,-1,-1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,1,1,1
+430,newspaper_D-Day_processed.json,472,FDP-Fraktionschef zum Papier für Ampel-Ausstieg: Beschämend,1,,,,,-1,-1,-1,,,,,,,,0,0,0,0,0,0,0
+431,newspaper_D-Day_processed.json,474,Ricarda Lang: Nach Ampel-Bruch: Ex-Grünen-Chefin verspottet FDP,1,,,,,,,,,,,,,-1,-1,0,0,0,0,0,-1,-1
+432,newspaper_D-Day_processed.json,475,FDP-Chef will weitermachen - Videobotschaft und Vorwürfe,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+433,newspaper_D-Day_processed.json,476,Beginn der offenen Feldschlacht!,1,-1,-1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,1,1,1
+434,newspaper_D-Day_processed.json,477,ROUNDUP: FDP-Chef will weitermachen - Videobotschaft und Vorwürfe,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+435,newspaper_D-Day_processed.json,478,Umfrage: Mehrheit findet FDP unglaubwürdiger,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+436,newspaper_D-Day_processed.json,479,"FDP-Chef Lindner: ""Schrammen hinterlassen, auch an der Glaubwürdigkeit""",1,-1,-1,,-1,-1,-1,-1,-1,-1,,,-1,-1,-1,1,1,0,0,1,1,1
+437,newspaper_D-Day_processed.json,480,Umfrage: Mehrheit findet FDP unglaubwürdiger,1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+438,newspaper_D-Day_processed.json,481,Der General als Bauernopfer,1,1,0,,,-1,-1,-1,0,,,,,,,-1,0,0,0,0,0,0
+439,newspaper_D-Day_processed.json,482,Djir-Sarai ist nur ein Bauernopfer,1,1,0,,,-1,-1,-1,1,0,,,-1,-1,-1,1,1,0,0,1,1,1
+440,newspaper_D-Day_processed.json,484,Nur ein Bauernopfer,1,1,,,,-1,-1,-1,0,0,,,-1,-1,-1,-1,-1,0,0,1,1,1
+441,newspaper_D-Day_processed.json,488,"Denn sie wissen nicht, was sie sagen",1,0,0,,0,-1,-1,-1,,,,,-1,-1,-1,0,0,0,0,1,1,1
+442,newspaper_D-Day_processed.json,489,",,Hagelschauer mit faustgroßen Körnern""",1,1,0,,,-1,-1,0,0,,,,,,,-1,0,0,0,0,0,0
+443,newspaper_D-Day_processed.json,490,"FDP-Chef Lindner: ""Schrammen hinterlassen, auch an der Glaubwürdigkeit""",1,,,,,1,1,,,,,,1,1,,0,0,0,0,1,1,0
+444,newspaper_D-Day_processed.json,491,Labor's electoral reforms on life support as talks with Coalition reach an impasse ahead of Senate 'd-day',1,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+445,newspaper_D-Day_processed.json,493,Ex-Justizminister Buschmann wird neuer FDP-Generalsekretär,1,,,,,-1,-1,-1,,,,,0,-1,-1,0,0,0,0,-1,1,1
+446,newspaper_D-Day_processed.json,495,Die FDP-Jugend fordert den Rücktritt des Generalsekretärs,1,,,,,,-1,,,,,,,-1,-1,0,0,0,0,0,1,-1
+447,newspaper_D-Day_processed.json,496,Blitz-Rücktritt in 45 Sekunden!; FDP-General Djir-Sarai schmeißt hin,1,,,,,-1,-1,,,,,,,,,0,0,0,0,0,0,0
+448,newspaper_D-Day_processed.json,497,FDP-Generalsekretär Djir-Sarai tritt zurück,1,-1,-1,,,0,-1,-1,,,,,,,,0,0,0,0,0,0,0
+449,newspaper_D-Day_processed.json,498,BEBEN IN DER FDP; Ist die FDP JETZT am Ende?,1,,,,,-1,-1,,,,,,-1,-1,-1,0,0,0,0,1,1,-1
