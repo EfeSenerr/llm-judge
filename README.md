@@ -1,9 +1,9 @@
 ## Mind the Gap: Decoding Sentiment in LLM Condensations
 
-![Header Graphic](header.jpg)
+![Header Graphic](header.webp)
 
 **Course: Aligning GenAI to Social Values**<br />
-Lectured by [Orestis Papakyriakopoulos](https://www.civicmachines.com/about.html), PhD @ Technical University of Munich
+Lectured by Prof. Dr. [Orestis Papakyriakopoulos](https://www.civicmachines.com/about.html) @ Technical University of Munich
 
 ---
 
