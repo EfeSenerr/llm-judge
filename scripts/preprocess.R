@@ -5,13 +5,15 @@
 # rm(list = ls())  # clean global env
 # install.packages("")
 
+# cat(paste(vector, collapse = "\n"))
+
 ### GHC prompt:
 # Let's code in R today. My dataset is called df. I have imported tidyverse and want to use it whenever possible. Do not repeat the content of my file unless I ask you to.
 
 library(tidyverse)
-library(ggplot2)
-library(lubridate)
-library(svglite)
+library(openxlsx)
+# library(ggplot2)
+# library(svglite)
 
 ### IMPORT
 
@@ -19,7 +21,7 @@ heval1 <- read.csv(
     "data/raw/Human_Evaluation_Results.csv",
     header = FALSE, # without headers
     sep = ",",
-    na.strings =c("", "NA"),
+    na.strings = c("", "NA"),
     fill = TRUE, # fill empty cells with NA
     stringsAsFactors = FALSE
 )
@@ -53,11 +55,12 @@ meval <- read.csv(
 #   OLD PROMPT
 meval[is.na(meval)] <- "NONE" # replace all
 #   NEW PROMPT
-#meval[is.na(meval)] <- NA
+# meval[is.na(meval)] <- NA
 
 # Cols
+
+# harmonize col names
 meval <- meval %>%
-    # harmonize col names
     rename(
         id = ID,
         dataset = Article.File.Name,
@@ -80,9 +83,9 @@ meval <- meval %>%
         smm_coalition = Summary_the_coalition_breakdown
     )
 
+# Drop cols
 meval <- meval %>%
-    # drop cols
-    select(-title) # not used in heval1,2
+    select(-title) %>% # not used in heval1,2
     select(-c(
         "Comparison_Olaf_Scholz",
         "Comparison_SPD",
@@ -93,17 +96,17 @@ meval <- meval %>%
         "Comparison_the_coalition_breakdown"
     ))
 
+# add identifiers
 meval <- meval %>%
-    # add evaluator name = LLM
     mutate(
-        evaluator = "Llama" # Llama-3.1-8B-Instruct
+        source = "meval", # source file
+        evaluator = "Llama" # evaluator name
     ) %>%
-    # move new col to front
-    select(evaluator, everything())
+    select(source, evaluator, everything()) # move cols to front
 
 # Rows
 meval <- meval %>%
-    #slice(-1) # drop 1st empty
+    # slice(-1) # drop 1st empty
     # Drop non-eligible: consistency=NONE *OR* datapoint=NONE
     filter(smm_consistency != "NONE" & datapoint != "NONE")
 
@@ -118,13 +121,15 @@ meval <- meval %>%
 heval1[heval1 == "N/A"] <- "NONE" # replace all "N/A" > "NONE"
 
 # Cols
+
 # harmonize col names
 heval1_names <- c(
+    "source",
     "evaluator",
-    #"id", # only in 2nd dataset "heval2"
+    # "id", # only in 2nd dataset "heval2"
     "dataset",
     "datapoint",
-    #"title", only in meval & heval2, not used in heval1
+    # "title", only in meval & heval2, not used in heval1
     "smm_consistency",
     "atc_coalition",
     "atc_spd",
@@ -141,14 +146,18 @@ heval1_names <- c(
     "smm_lindner",
     "smm_habeck",
     "comment"
-    )
+)
 
+# add identifiers ## Must come *before* colnames assignment!
+heval1 <- heval1 %>%
+    mutate(source = "heval1") %>% # source file
+    select(source, everything()) # move cols to front
+
+# colnames to df
 colnames(heval1) <- heval1_names
 
-# Drop cols
-
 # Change data
-heval1 <- heval1 %>%
+heval1 <- heval1 %>% # fix dataset name
     mutate(dataset = dataset %>%
         str_replace("ampel_aus_0", "newspaper_ampel-aus_0-200_processed.json") %>%
         str_replace("DDay", "newspaper_D-Day_processed.json") %>%
@@ -159,13 +168,18 @@ heval1 <- heval1 %>%
         str_replace("ampel_koalition", "newspaper_Ampel_Koalition am Ende_52_processed.json") %>%
         str_replace("koalitionskrise", "newspaper_koalitionskrise_52_processed.json"))
 
+heval1 <- heval1 %>% # fix evaluator naming
+    mutate(evaluator = if_else(evaluator == "Charly", "Charlotte", evaluator))
+
 # Rows
 heval1 <- heval1 %>%
     slice(-(1:2)) # drop 1:2
-        
-heval1 <- heval1 %>%
-    # Drop non-eligible: consistency=NONE *OR* datapoint=NONE
+
+heval1 <- heval1 %>% # Drop non-eligible: consistency=NONE *OR* datapoint=NONE
     filter(smm_consistency != "NONE" & datapoint != "NONE")
+
+# Clean
+rm(heval1_names)
 
 
 ### CLEANING
@@ -177,8 +191,10 @@ heval1 <- heval1 %>%
 heval2[heval2 == "N/A"] <- "NONE" # replace all "N/A" > "NONE"
 
 # Cols
+
 # harmonize col names
 heval2_names <- c(
+    "source",
     "evaluator",
     "id", # only in 2nd dataset "heval2"
     "dataset",
@@ -202,79 +218,143 @@ heval2_names <- c(
     "comment"
 )
 
+# add identifiers ## Must come *before* colnames assignment!
+heval2 <- heval2 %>%
+    mutate(source = "heval2") %>% # source file
+    select(source, everything()) # move cols to front
+
+# colnames to df
 colnames(heval2) <- heval2_names
 
 # Drop cols
 heval2 <- heval2 %>%
     select(-id, -title) # drop id, only in "heval2"
 
+# Change data
+heval2 <- heval2 %>% # fix evaluator naming
+    mutate(evaluator = if_else(evaluator == "Charly", "Charlotte", evaluator))
+
 # Rows
 heval2 <- heval2 %>%
     slice(-(1:2)) # drop 1:2
 
-heval2 <- heval2 %>%
-    # Drop non-eligible: consistency=NONE *OR* datapoint=NONE
+heval2 <- heval2 %>% # Drop non-eligible: consistency=NONE *OR* datapoint=NONE
     filter(smm_consistency != "NONE" & datapoint != "NONE")
+
+# Clean
+rm(heval2_names)
 
 
 ### MANIPULATE DATA
 
 # Combine datasets
-heval <- bind_rows(heval1, heval2) # df must have same columns
+heval_long <- bind_rows(heval1, heval2) # df must have same columns
 
 # Combine cols (dataset & datapoint)
-heval <- heval %>%
-    mutate(datapoint_new = str_c(dataset, datapoint, sep = "_", na.rm = TRUE))
-    # select(-dataset, -datapoint)
+heval_long <- heval_long %>%
+    mutate(datapoint_new = paste(dataset, datapoint, sep = "_"))
+# mutate(datapoint_new = str_c(dataset, datapoint, sep = "_", na.rm = TRUE))
+# select(-dataset, -datapoint)
 
-    # Unique Identifiers
-    #   Create hash (rather than uuid > make individual case discoverable)
-    #   > xxhashlite
-    #   > new hash col
+
+# Unique Identifiers
+#   Create hash (rather than uuid > make individual case discoverable)
+#   > xxhashlite
+#   > new hash col
+
+# Clean
+rm(heval1, heval2)
+
+### IDENTIFY DUPLICATES
+
+# Keep first occurrence of duplicates in original df
+heval <- heval_long %>%
+    filter(!duplicated(datapoint_new))
+# Copy subsequent duplicates to new df
+heval_duplicates <- heval_long %>%
+    filter(duplicated(datapoint_new))
+# Substract all duplicates from original df
+heval_short <- heval %>%
+    anti_join(heval_duplicates, by = "datapoint_new") # Only use for allocation, nothing else!
+
+# Col names & Labels
+heval_names <- colnames(heval_long)
+heval_labels <- c(
+    "Source",
+    "Evaluator name",
+    "Dataset",
+    "Datapoint",
+    "Summary: Consistency",
+    "Article: Coalition Breakdown",
+    "Article: SPD",
+    "Article: FDP",
+    "Article: Greens",
+    "Article: Scholz",
+    "Article: Lindner",
+    "Article: Habeck",
+    "Summary: Coalition Breakdown",
+    "Summary: SPD",
+    "Summary: FDP",
+    "Summary: Greens",
+    "Summary: Scholz",
+    "Summary: Lindner",
+    "Summary: Habeck",
+    "Comment",
+    "Datapoint_new"
+)
+
+# Clean
+# rm(heval_long, heval_duplicates)
+
 
 ### ALLOCATE
-evaluator_names <- c("Ayten", "Hannah", "Monika", "Charlotte", "Jannis", "Bene", "Henri", "Efe", "Sophia", "Tim")
-
-for (name in evaluator_names) {
-    assign(name, heval %>%
-        filter(evaluator == name) %>%
-        pull(datapoint_new))
-}
+#   > preprocess_allocate_3rd.R
 
 
-evaluator_vectors <- list() # create empty list
+### MASTER datasets
+#   Combine heval & meval
+master <- bind_rows(heval, meval)
 
-# Loop through each name and create a vector
-for (name in evaluator_names) {
-    evaluator_vectors[[name]] <- heval %>%
-        filter(evaluator == name) %>%
-        pull(datapoint_new)
-}
+write.xlsx(master,
+    file = "data/processed/MASTER_combined.xlsx",
+    sheetName = "master",
+    asTable = FALSE,
+    overwrite = TRUE,
+    colNames = TRUE
+)
+write.csv(master,
+    file = "data/processed/MASTER_combined.csv",
+    row.names = FALSE,
+    quote = TRUE, # Quote strings, factors, and character vectors
+    na = "", # How to represent NA values
+    fileEncoding = "UTF-8"
+)
 
-
-
-
-Henri <- heval %>%
-    filter(evaluator == "Henri") %>%
-    pull(datapoint_new) # extracts a column as a vector
-
--create vector named "person" = indiv uids
--create "heval2uids" vector of all uids
-
--subtract "person" from "heval2uids"
-(-count objects in vector)
--choose x values randomly
-
-available:Ayten,Monika**,Hannah,Sophia,Jannis,Charlotte,Bene,(Tim)
-
-### SAVE DATASET
-
-# to memory
-df_long <- df  # %>% slice(1:10)
-# to CSV
-write.csv(df, "df.csv", sep = ",", row.names = FALSE, col.names = TRUE)
-
-
-# DIFFS
-
-see file
+write.xlsx(heval,
+    file = "data/processed/MASTER_human-eval.xlsx",
+    sheetName = "heval",
+    asTable = FALSE,
+    overwrite = TRUE,
+    colNames = TRUE
+)
+write.csv(heval,
+    file = "data/processed/MASTER_human-eval.csv",
+    row.names = FALSE,
+    quote = TRUE, # Quote strings, factors, and character vectors
+    na = "", # How to represent NA values
+    fileEncoding = "UTF-8"
+)
+write.xlsx(meval,
+    file = "data/processed/MASTER_machine-eval.xlsx",
+    sheetName = "meval",
+    asTable = FALSE,
+    overwrite = TRUE,
+    colNames = TRUE
+)
+write.csv(meval,
+    file = "data/processed/MASTER_machine-eval.csv",
+    row.names = FALSE,
+    quote = TRUE, # Quote strings, factors, and character vectors
+    na = "", # How to represent NA values
+    fileEncoding = "UTF-8"
+)
