@@ -13,7 +13,7 @@
 library(tidyverse)
 library(openxlsx)
 
-inputfile <- "data/raw/evaluation_results_aggregated_0503.csv" # LLM-evals
+inputfile <- "data/processesraw/evaluation_results_aggregated_0503.csv" # LLM-evals
 # inputfilename <- basename(inputfile)  # incl. suffix
 inputfilename <- tools::file_path_sans_ext(basename(inputfile)) # excl. suffix
 
