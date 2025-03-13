@@ -7,9 +7,6 @@
 
 # cat(paste(vector, collapse = "\n"))
 
-### GHC prompt:
-# Let's code in R today. My dataset is called df. I have imported tidyverse and want to use it whenever possible. Do not repeat the content of my file unless I ask you to.
-
 library(tidyverse)
 library(openxlsx)
 # library(ggplot2)
@@ -34,7 +31,7 @@ heval2 <- read.csv(
     stringsAsFactors = FALSE
 )
 meval <- read.csv(
-    "data/raw/evaluation_results_aggregated_0503.csv",
+    "data/raw/evaluation_results_aggregated_1303.csv",
     header = TRUE, # incl headers
     sep = ",",
     fill = TRUE, # fill empty cells with NA
