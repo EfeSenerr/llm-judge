@@ -5,11 +5,12 @@
 _legacy/
 _orga/
 _tmp/
-literature/
+.github/
 
 # Custom Dev env
-.lintr
+.env/
 .env
+.lintr
 *.code-workspace
 
 # Node, npm
