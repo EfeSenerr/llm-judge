@@ -85,7 +85,7 @@ meval <- meval %>%
 
 # Drop cols
 meval <- meval %>%
-    select(-title) %>% # not used in heval1,2
+    select(-id, -title) %>% # not used in heval1,2
     select(-c(
         "Comparison_Olaf_Scholz",
         "Comparison_SPD",
@@ -109,6 +109,12 @@ meval <- meval %>%
     # slice(-1) # drop 1st empty
     # Drop non-eligible: consistency=NONE *OR* datapoint=NONE
     filter(smm_consistency != "NONE" & datapoint != "NONE")
+
+### MANIPULATE DATA
+
+# Combine cols (dataset & datapoint)
+meval <- meval %>%
+    mutate(datapoint_new = paste(dataset, datapoint, sep = "_"))
 
 
 
@@ -220,8 +226,8 @@ heval2_names <- c(
 
 # add identifiers ## Must come *before* colnames assignment!
 heval2 <- heval2 %>%
-    mutate(source = "heval2") %>% # source file
-    select(source, everything()) # move cols to front
+    mutate(source = "heval2") %>% # add source file
+    select(source, everything()) # move to front
 
 # colnames to df
 colnames(heval2) <- heval2_names
@@ -265,6 +271,8 @@ heval_long <- heval_long %>%
 # Clean
 rm(heval1, heval2)
 
+
+
 ### IDENTIFY DUPLICATES
 
 # Keep first occurrence of duplicates in original df
@@ -305,6 +313,7 @@ heval_labels <- c(
 
 # Clean
 # rm(heval_long, heval_duplicates)
+
 
 
 ### ALLOCATE
