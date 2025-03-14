@@ -5,9 +5,6 @@
 # rm(list = ls())  # clean global env
 # install.packages("")
 
-### GHC prompt:
-# Let's code in R today. My dataset is called df. I have imported tidyverse and want to use it whenever possible. Do not repeat the content of my file unless I ask you to.
-
 ### Add Diffs to datasets
 
 library(tidyverse)
