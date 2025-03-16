@@ -1,6 +1,12 @@
+# This script allocates articles for the 3rd round of evals
+# from the large HumanEval dataset (heval1 + heval 2)
+
+
+### RUN FIRST
+#   preprocess.R
+
 ### ALLOCATE
 evaluator_names <- c("Ayten", "Hannah", "Monika", "Charlotte", "Jannis", "Bene", "Henri", "Efe", "Sophia", "Tim")
-# "Ayten"*15, "Hannah"*8, "Monika"*8, "Charlotte", "Jannis", "Bene", "Henri", "Efe", "Sophia"*6, "Tim"
 
 # Create vector for each name containing respective datapoints
 for (name in evaluator_names) {
