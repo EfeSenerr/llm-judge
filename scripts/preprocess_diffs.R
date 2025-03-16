@@ -11,9 +11,8 @@ library(tidyverse)
 library(openxlsx)
 
 inputfile <- "data/processed/MASTER_combined.csv"
-# inputfile <- "MASTER_combined.csv"
-# inputfile <- "Master_human-eval.csv"
-# inputfile <- "Master_machine-eval.csv"
+# inputfile <- "data/processed/MASTER_human-eval.csv"
+# inputfile <- "data/processed/MASTER_machine-eval.csv"
 
 # inputfilename <- basename(inputfile)  # incl. suffix
 inputfilename <- tools::file_path_sans_ext(basename(inputfile)) # excl. suffix
