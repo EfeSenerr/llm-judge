@@ -11,9 +11,9 @@ library(tidyverse)
 library(openxlsx)
 
 inputfile <- "data/processed/MASTER_combined.csv"
-# MASTER_combined.csv
-# Master_human-eval.csv
-# Master_machine-eval.csv
+# inputfile <- "MASTER_combined.csv"
+# inputfile <- "Master_human-eval.csv"
+# inputfile <- "Master_machine-eval.csv"
 
 # inputfilename <- basename(inputfile)  # incl. suffix
 inputfilename <- tools::file_path_sans_ext(basename(inputfile)) # excl. suffix
@@ -89,3 +89,5 @@ write.csv(df,
     na = "", # How to represent NA values
     fileEncoding = "UTF-8"
 )
+
+rm(list = ls()) # clean global env
