@@ -5,4 +5,26 @@
 # rm(list = ls())  # clean global env
 # install.packages("")
 
-### Add Diffs to datasets
+
+
+
+heval
+
+meval
+
+#
+Set levels, data types
+
+#
+Sentiment pairs (atc_*, smm_*)
+
+
+# Cohen's Kappa
+Kappa (col1, col2)
+
+# Spearman's Coef
+
+
+# Krippendorff's Alpha
+select: evaluator, atc_spd, datapoint_new
+
