@@ -137,7 +137,7 @@ heval3_short <- heval3 %>%
 
 heval <- bind_rows(heval12, heval3)
 
-master <- bind_rows(heval, heval3, meval)
+master <- bind_rows(heval, meval)
 
 write.xlsx(master,
     file = "data/processed/3rd/MASTER_combined_3rd.xlsx",
