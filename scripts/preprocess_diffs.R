@@ -10,12 +10,15 @@
 library(tidyverse)
 library(openxlsx)
 
-inputfile <- "data/processed/MASTER_combined.csv"
+# inputfile <- "data/processed/MASTER_combined.csv"
 # inputfile <- "data/processed/MASTER_human-eval.csv"
 # inputfile <- "data/processed/MASTER_machine-eval.csv"
 #
 # inputfile <- "data/processed/3rd/MASTER_combined_3rd.csv"
 # inputfile <- "data/processed/3rd/MASTER_human-eval_3rd.csv"
+
+# inputfile <- "data/processed/4th/MASTER_combined_4th.csv"
+# inputfile <- "data/processed/4th/MASTER_human-eval_4th.csv"
 
 # inputfilename <- basename(inputfile)  # incl. suffix
 inputfilename <- tools::file_path_sans_ext(basename(inputfile)) # excl. suffix
