@@ -7,6 +7,8 @@
 
 # cat(paste(vector, collapse = "\n"))
 
+rm(list = ls()) # clean global env
+
 library(tidyverse)
 library(openxlsx)
 library(readxl)
@@ -40,8 +42,38 @@ heval3 <- read.csv(
     fill = TRUE, # fill empty cells with NA
     stringsAsFactors = FALSE
 )
+heval12 <- read.csv(
+    "data/processed/MASTER_human-eval.csv", # 1st+2nd round
+    header = TRUE, # without headers
+    sep = ",",
+    na.strings = c("", "NA"),
+    fill = TRUE, # fill empty cells with NA
+    stringsAsFactors = FALSE
+)
+meval <- read.csv(
+    "data/processed/MASTER_machine-eval.csv",
+    header = TRUE, # without headers
+    sep = ",",
+    na.strings = c("", "NA"),
+    fill = TRUE, # fill empty cells with NA
+    stringsAsFactors = FALSE
+)
 
-heval3_long <- heval3 # keep original
+heval3 <- heval3 %>%
+    # Convert to int
+    mutate(smm_consistency = as.integer(smm_consistency)) %>%
+    # Drop non-eligible
+    filter(
+        (smm_consistency == 0 | smm_consistency == 1) &
+            !is.na(datapoint)
+    )
+heval3_long <- heval3 # keep original/long data
+
+### CLEANING
+
+# Handle NA
+
+# Cols
 
 heval3_names <- colnames(heval3_long)
 heval3_labels <- c(
@@ -68,13 +100,6 @@ heval3_labels <- c(
     "Datapoint_new"
 )
 
-
-### CLEANING
-
-# Handle NA
-
-# Cols
-
 # Rows
 
 
@@ -91,13 +116,55 @@ heval3_labels <- c(
 # Keep first occurrence of duplicates in original df
 heval3 <- heval3_long %>%
     filter(!duplicated(datapoint_new))
+
 # Copy subsequent duplicates to new df
 heval3_duplicates <- heval3_long %>%
     filter(duplicated(datapoint_new))
+
 # Substract all duplicates from original df
 # because 1 validator observation is enough
 heval3_short <- heval3 %>%
     anti_join(heval3_duplicates, by = "datapoint_new") # Only use for allocation, nothing else!
 
+### ALLOCATE
+
 # Save duplicates ...
 # preprocess_3rd_allocate.R
+
+
+### MASTER datasets
+#   Combine heval, meval
+
+heval <- bind_rows(heval12, heval3)
+
+master <- bind_rows(heval, heval3, meval)
+
+write.xlsx(master,
+    file = "data/processed/3rd/MASTER_combined_3rd.xlsx",
+    sheetName = "master",
+    asTable = FALSE,
+    overwrite = TRUE,
+    colNames = TRUE
+)
+write.csv(master,
+    file = "data/processed/3rd/MASTER_combined_3rd.csv",
+    row.names = FALSE,
+    quote = TRUE, # Quote strings, factors, and character vectors
+    na = "", # How to represent NA values
+    fileEncoding = "UTF-8"
+)
+
+write.xlsx(heval,
+    file = "data/processed/3rd/MASTER_human-eval_3rd.xlsx",
+    sheetName = "heval",
+    asTable = FALSE,
+    overwrite = TRUE,
+    colNames = TRUE
+)
+write.csv(heval,
+    file = "data/processed/3rd/MASTER_human-eval_3rd.csv",
+    row.names = FALSE,
+    quote = TRUE, # Quote strings, factors, and character vectors
+    na = "", # How to represent NA values
+    fileEncoding = "UTF-8"
+)
