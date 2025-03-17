@@ -142,6 +142,13 @@ heval <- bind_rows(heval123, heval4)
 
 master <- bind_rows(heval, meval)
 
+# Count mismatches (obs where the dataset+datapoint not equal to datapoint_new)
+count_mismatches <- master %>%
+    mutate(combined = paste(dataset, "_", datapoint, sep = "")) %>%
+    filter(combined != datapoint_new) %>%
+    nrow()
+print(count_mismatches)
+
 write.xlsx(master,
     file = "data/processed/4th/MASTER_combined_4th.xlsx",
     sheetName = "master",
