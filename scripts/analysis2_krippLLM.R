@@ -177,7 +177,7 @@ results[["atc_scholz"]] # Access results
 write.csv(alpha_table, "output/alpha_results_krippLLM.csv", row.names = FALSE)
 
 write.xlsx(alpha_table,
-    file = "output/output/alpha_results_krippLLM.xlsx",
+    file = "output/alpha_results_krippLLM.xlsx",
     asTable = FALSE,
     overwrite = TRUE,
     colNames = TRUE
