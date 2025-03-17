@@ -7,7 +7,7 @@
 
 # cat(paste(vector, collapse = "\n"))
 
-rm(list = ls()) # clean global env
+rm(list = ls())
 
 library(tidyverse)
 library(openxlsx)

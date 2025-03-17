@@ -7,15 +7,12 @@
 
 ### Add Diffs to datasets
 
+rm(list = ls())
+
 library(tidyverse)
 library(openxlsx)
 
-# inputfile <- "data/processed/MASTER_combined.csv"
-# inputfile <- "data/processed/MASTER_human-eval.csv"
 # inputfile <- "data/processed/MASTER_machine-eval.csv"
-#
-# inputfile <- "data/processed/3rd/MASTER_combined_3rd.csv"
-# inputfile <- "data/processed/3rd/MASTER_human-eval_3rd.csv"
 
 # inputfile <- "data/processed/4th/MASTER_combined_4th.csv"
 # inputfile <- "data/processed/4th/MASTER_human-eval_4th.csv"
