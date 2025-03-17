@@ -14,6 +14,9 @@ library(openxlsx)
 
 # inputfile <- "data/processed/MASTER_machine-eval.csv"
 
+# inputfile <- "data/processed/3rd/MASTER_combined_3rd.csv"
+# inputfile <- "data/processed/3rd/MASTER_human-eval_3rd.csv"
+
 # inputfile <- "data/processed/4th/MASTER_combined_4th.csv"
 # inputfile <- "data/processed/4th/MASTER_human-eval_4th.csv"
 
@@ -71,6 +74,13 @@ sum(is.na(df$smm_scholz))
 sum(is.na(df$diff_scholz))
 
 ### SAVE FILE
+
+# Count mismatches (obs where the dataset+datapoint not equal to datapoint_new)
+count_mismatches <- df %>%
+    mutate(combined = paste(dataset, "_", datapoint, sep = "")) %>%
+    filter(combined != datapoint_new) %>%
+    nrow()
+print(count_mismatches)
 
 outputfile <- paste0("data/processed/", inputfilename, "_DIFFS", ".xlsx")
 write.xlsx(df,
