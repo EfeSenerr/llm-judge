@@ -90,6 +90,7 @@ df_llm <- read.csv(
 # for ICR
 plot_data <- df_icr %>%
     filter(str_detect(variable, "^smm_|^atc_")) %>%
+    filter(variable != "smm_consistency") %>%
     mutate(group = case_when(
         str_detect(variable, "^smm_") ~ "Summary",
         str_detect(variable, "^atc_") ~ "Article",
@@ -126,6 +127,7 @@ ggsave("output/plot_alpha_irc_boxp.png", plot = boxp, width = 10, height = 7, un
 
 plot_data <- df_llm %>%
     filter(str_detect(variable, "^smm_|^atc_")) %>%
+    filter(variable != "smm_consistency") %>%
     mutate(group = case_when(
         str_detect(variable, "^smm_") ~ "Summary",
         str_detect(variable, "^atc_") ~ "Article",
